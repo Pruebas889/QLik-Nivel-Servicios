@@ -6,8 +6,7 @@ LOG = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
 URL = (
-    "https://qlik.copservir.com/sense/app/d39c40fb-a304-4eaf-9a30-50b7279d33f1/"
-    "sheet/4f191cdb-aa40-409d-86b2-497a427a8b6a/state/analysis"
+    "https://qlik.copservir.com/sense/app/57d34c58-0147-49a3-ba25-5ab93cd53935/sheet/1b65938b-8bbb-4f9a-80b7-da596cf645d9/state/analysis?qlikTicket=yp_QvgbP53N6A11R"
 )
 USERNAME = "Qlikzona29"
 PASSWORD = "pF2A3f2x*"

@@ -10,8 +10,7 @@ from selenium.webdriver.common.by import By
 
 # --- CONFIGURACIÓN ---
 URL_QLIK = (
-    "https://qlik.copservir.com/sense/app/d39c40fb-a304-4eaf-9a30-50b7279d33f1/"
-    "sheet/4f191cdb-aa40-409d-86b2-497a427a8b6a/state/analysis"
+    "https://qlik.copservir.com/sense/app/57d34c58-0147-49a3-ba25-5ab93cd53935/sheet/1b65938b-8bbb-4f9a-80b7-da596cf645d9/state/analysis?qlikTicket=yp_QvgbP53N6A11R"
 )
 USUARIO = "Qlikzona29"
 PASSWORD = "pF2A3f2x*"
@@ -114,8 +113,12 @@ def ejecutar_automatizacion():
             else:
                 print("Aviso: tiempo de espera agotado. La URL no cambió a 'hub' o 'sense'.")
             # Aquí continúa tu lógica de extracción de datos...
+            return driver
+            
         else:
             print("No se pudo acceder después de ambos métodos. Verifique credenciales o conexión.")
+            driver.quit()
+            return None
 
     except WebDriverException as e:
         print(f"Error de conexión/navegador: {e}")

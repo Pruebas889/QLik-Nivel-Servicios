@@ -1,0 +1,3904 @@
+{
+  "Sheet1": [
+    {
+      "PDV": "219-REBAJA PLUS No. 4 BOGOTA USAQUEN 1 CALLE 120",
+      "Nivel de Servicio": "0.06290338924836592"
+    },
+    {
+      "PDV": "2F4-REBAJA No. 64 BOGOTA CEDRITOS 1",
+      "Nivel de Servicio": "0.07294153623848859"
+    },
+    {
+      "PDV": "2Z7-REBAJA No. 129 BOGOTA CHICO 2",
+      "Nivel de Servicio": "0.07317700071751462"
+    },
+    {
+      "PDV": "5X2-REBAJA PLUS No. 81 BOGOTA CHICO 2",
+      "Nivel de Servicio": "0.07776883309067387"
+    },
+    {
+      "PDV": "411-REBAJA PLUS No. 7 CALI AVENIDA SEXTA",
+      "Nivel de Servicio": "0.08343134467693003"
+    },
+    {
+      "PDV": "178-REBAJA PLUS No. 3 MONTERIA FRENTE AL SENA",
+      "Nivel de Servicio": "0.08635782589687618"
+    },
+    {
+      "PDV": "187-REBAJA PLUS No. 1 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.0877770440548692"
+    },
+    {
+      "PDV": "5T5-REBAJA PLUS No. 18 IBAGUE AVENIDA AMBALA",
+      "Nivel de Servicio": "0.0888941013353264"
+    },
+    {
+      "PDV": "318-REBAJA No. 5 CUCUTA CENTRO COMERCIAL OITI",
+      "Nivel de Servicio": "0.09054353635880683"
+    },
+    {
+      "PDV": "427-REBAJA PLUS No. 1 CALI CIUDAD JARDIN",
+      "Nivel de Servicio": "0.09746156757229228"
+    },
+    {
+      "PDV": "5F8-REBAJA PLUS No. 32 BOGOTA EDS PETROBRAS PRADO",
+      "Nivel de Servicio": "0.09982166019196617"
+    },
+    {
+      "PDV": "3I1-REBAJA PLUS No. 2 RIONEGRO LLANO GRANDE",
+      "Nivel de Servicio": "0.1010755438714923"
+    },
+    {
+      "PDV": "2I8-REBAJA PLUS No. 8 BOGOTA USAQUEN 2 CALLE 124",
+      "Nivel de Servicio": "0.1014226547746848"
+    },
+    {
+      "PDV": "1D1-REBAJA PLUS No. 7 SANTA MARTA MAMATOCO",
+      "Nivel de Servicio": "0.1042573223909184"
+    },
+    {
+      "PDV": "277-REBAJA PLUS No. 73 BOGOTA CASTILLA 1 PRINCIPAL",
+      "Nivel de Servicio": "0.1069075534133723"
+    },
+    {
+      "PDV": "1G3-REBAJA PLUS No. 1 VALLEDUPAR TRES POSTES",
+      "Nivel de Servicio": "0.1094096635277858"
+    },
+    {
+      "PDV": "498-REBAJA PLUS No. 3 CALI CIUDAD CAPRI",
+      "Nivel de Servicio": "0.1105084366602847"
+    },
+    {
+      "PDV": "2U3-REBAJA PLUS No. 63 BOGOTA CALLE 119",
+      "Nivel de Servicio": "0.1120277665455308"
+    },
+    {
+      "PDV": "2S3-REBAJA PLUS No. 13 BOGOTA CASTILLA 2 AVENIDA BOYACA",
+      "Nivel de Servicio": "0.1127894906286157"
+    },
+    {
+      "PDV": "5N7-REBAJA PLUS No. 53 BOGOTA TOBERIN CALLE 166",
+      "Nivel de Servicio": "0.1139324907522966"
+    },
+    {
+      "PDV": "5M9-REBAJA PLUS No. 48 BOGOTA CASTELLANA",
+      "Nivel de Servicio": "0.1141269262292855"
+    },
+    {
+      "PDV": "3F6-REBAJA PLUS No. 28 MEDELLIN SAN JOAQUIN",
+      "Nivel de Servicio": "0.1147278297079757"
+    },
+    {
+      "PDV": "268-REBAJA PLUS No. 2 VILLAVICENCIO LOS CENTAUROS",
+      "Nivel de Servicio": "0.1150030946605505"
+    },
+    {
+      "PDV": "5A6-REBAJA PLUS No. 8 IBAGUE MIROLINDO PICALENA",
+      "Nivel de Servicio": "0.1164129375501154"
+    },
+    {
+      "PDV": "2Y1-REBAJA PLUS No. 12 BOGOTA NIZA BULEVAR",
+      "Nivel de Servicio": "0.1164537659556791"
+    },
+    {
+      "PDV": "5W8-REBAJA PLUS No. 34 MEDELLIN EL POBLADO",
+      "Nivel de Servicio": "0.1167127330453712"
+    },
+    {
+      "PDV": "2X7-REBAJA PLUS No. 57 BOGOTA PRADO VERANIEGO 2",
+      "Nivel de Servicio": "0.1173163427585072"
+    },
+    {
+      "PDV": "3E1-REBAJA PLUS No. 1 EL RETIRO CENTRO COMERCIAL LA FE",
+      "Nivel de Servicio": "0.1223438143236587"
+    },
+    {
+      "PDV": "5X8-REBAJA PLUS No. 18 VALLEDUPAR LOS CAMPANOS",
+      "Nivel de Servicio": "0.1228155029015715"
+    },
+    {
+      "PDV": "1A4-REBAJA PLUS No. 3 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.1228809965635764"
+    },
+    {
+      "PDV": "262-REBAJA PLUS No. 16 BOGOTA UNICENTRO",
+      "Nivel de Servicio": "0.1231061281637478"
+    },
+    {
+      "PDV": "314-REBAJA PLUS No. 7 BUCARAMANGA CABECERA",
+      "Nivel de Servicio": "0.1234249697742788"
+    },
+    {
+      "PDV": "349-REBAJA PLUS No. 1 BARRANCABERMEJA PARQUE INFANTIL",
+      "Nivel de Servicio": "0.1234994954962871"
+    },
+    {
+      "PDV": "4A1-REBAJA PLUS No. 4 CALI CENTRO COMERCIAL CIUDAD JARDIN",
+      "Nivel de Servicio": "0.1244211435579898"
+    },
+    {
+      "PDV": "217-REBAJA PLUS No. 2 BOGOTA COUNTRY",
+      "Nivel de Servicio": "0.1247494011512929"
+    },
+    {
+      "PDV": "2W4-REBAJA No. 104 BOGOTA CEDRITOS 2",
+      "Nivel de Servicio": "0.126840482607245"
+    },
+    {
+      "PDV": "170-REBAJA PLUS No. 2 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.128624081715534"
+    },
+    {
+      "PDV": "120-REBAJA PLUS No. 3 LORICA TERMINAL DE TRANSPORTES",
+      "Nivel de Servicio": "0.1290771324987169"
+    },
+    {
+      "PDV": "5W3-REBAJA PLUS No. 1 MARINILLA HOSPITAL",
+      "Nivel de Servicio": "0.129371765515203"
+    },
+    {
+      "PDV": "5I1-REBAJA PLUS No. 13 MEDELLIN LOMA DE LOS BERNAL",
+      "Nivel de Servicio": "0.1298109239820054"
+    },
+    {
+      "PDV": "5P3-REBAJA PLUS No. 61 BOGOTA C. C. BELMIRA PLAZA",
+      "Nivel de Servicio": "0.1303116844791007"
+    },
+    {
+      "PDV": "381-REBAJA PLUS No. 1 ARAUCA PLAZA PRINCIPAL",
+      "Nivel de Servicio": "0.1321302090770894"
+    },
+    {
+      "PDV": "2T3-REBAJA No. 73 BOGOTA KENNEDY 3 HOSPITAL",
+      "Nivel de Servicio": "0.1322252271452653"
+    },
+    {
+      "PDV": "2U7-REBAJA PLUS No. 67 BOGOTA KENNEDY 5",
+      "Nivel de Servicio": "0.1343920631780907"
+    },
+    {
+      "PDV": "152-REBAJA No. 4 SANTA MARTA ANTIGUO PUENTE PEATONAL",
+      "Nivel de Servicio": "0.1344025150287293"
+    },
+    {
+      "PDV": "172-REBAJA PLUS No. 1 MONTERIA LA CASTELLANA",
+      "Nivel de Servicio": "0.135270974854629"
+    },
+    {
+      "PDV": "3D1-REBAJA No. 3 ENVIGADO MALL COMERCIAL TERRACINA PLAZA",
+      "Nivel de Servicio": "0.1372029663031468"
+    },
+    {
+      "PDV": "2J4-REBAJA PLUS No. 14 BOGOTA VILLA DEL PRADO",
+      "Nivel de Servicio": "0.1380790193079493"
+    },
+    {
+      "PDV": "1O9-REBAJA PLUS No. 1 SAN JUAN DE NEPOMUCENO SAN ISIDRO",
+      "Nivel de Servicio": "0.1381592872009898"
+    },
+    {
+      "PDV": "1H4-REBAJA No. 11 VALLEDUPAR HOTEL SICARARE",
+      "Nivel de Servicio": "0.1387715309608151"
+    },
+    {
+      "PDV": "419-REBAJA PLUS No. 15 CALI EL PENON",
+      "Nivel de Servicio": "0.1387841800719533"
+    },
+    {
+      "PDV": "5A5-REBAJA PLUS No. 25 CARTAGENA TERPEL MARBELLA",
+      "Nivel de Servicio": "0.1389984723066676"
+    },
+    {
+      "PDV": "202-REBAJA PLUS No. 22 BOGOTA FONTIBON 1 CRA 100",
+      "Nivel de Servicio": "0.1390254378899263"
+    },
+    {
+      "PDV": "450-REBAJA PLUS No. 2 CALI CHIPICHAPE",
+      "Nivel de Servicio": "0.1392783603587325"
+    },
+    {
+      "PDV": "166-REBAJA PLUS No. 11 CARTAGENA MANGA",
+      "Nivel de Servicio": "0.1394259460627198"
+    },
+    {
+      "PDV": "2W1-REBAJA PLUS No. 18 BOGOTA SANTA ISABEL",
+      "Nivel de Servicio": "0.1405944562655572"
+    },
+    {
+      "PDV": "2K3-REBAJA PLUS No. 4 IBAGUE EL LIMONAR",
+      "Nivel de Servicio": "0.1406085627129882"
+    },
+    {
+      "PDV": "1E3-REBAJA PLUS No. 1 MARIA LA BAJA ENTRADA",
+      "Nivel de Servicio": "0.1410132757136283"
+    },
+    {
+      "PDV": "241-REBAJA PLUS No. 45 BOGOTA ALCALA",
+      "Nivel de Servicio": "0.1411333890603173"
+    },
+    {
+      "PDV": "353-REBAJA No. 12 BUCARAMANGA EDIFICIO COLSEGUROS",
+      "Nivel de Servicio": "0.1412248831328294"
+    },
+    {
+      "PDV": "359-REBAJA PLUS No. 2 BARRANCABERMEJA BARRIO COLOMBIA",
+      "Nivel de Servicio": "0.1421588545310546"
+    },
+    {
+      "PDV": "2U6-REBAJA PLUS No. 64 BOGOTA KENNEDY 4",
+      "Nivel de Servicio": "0.142724221313849"
+    },
+    {
+      "PDV": "2A3-REBAJA PLUS No. 1 GUAMO CENTRO",
+      "Nivel de Servicio": "0.1432024405873807"
+    },
+    {
+      "PDV": "271-REBAJA PLUS No. 9 VILLAVICENCIO ALMACEN SUPERSIA",
+      "Nivel de Servicio": "0.1434194165771781"
+    },
+    {
+      "PDV": "310-REBAJA PLUS No. 3 BUCARAMANGA SOTOMAYOR",
+      "Nivel de Servicio": "0.1434885586134289"
+    },
+    {
+      "PDV": "316-REBAJA No. 1 CUCUTA ALEJANDRIA",
+      "Nivel de Servicio": "0.1439741984150707"
+    },
+    {
+      "PDV": "441-REBAJA No. 4 IPIALES CENTRO COMERCIAL LA ESTRELLA",
+      "Nivel de Servicio": "0.1441934038545803"
+    },
+    {
+      "PDV": "5M1-REBAJA PLUS No. 27 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.1442485203047812"
+    },
+    {
+      "PDV": "124-REBAJA PLUS No. 1 BARRANQUILLA DELICIAS",
+      "Nivel de Servicio": "0.144257578626177"
+    },
+    {
+      "PDV": "2H9-REBAJA PLUS No. 1 BOGOTA COLINA CALLE 137",
+      "Nivel de Servicio": "0.1444891504205372"
+    },
+    {
+      "PDV": "2X1-REBAJA PLUS No. 62 BOGOTA PASADENA 1",
+      "Nivel de Servicio": "0.1455646909946715"
+    },
+    {
+      "PDV": "2N7-REBAJA PLUS No. 46 BOGOTA SANTA MATILDE",
+      "Nivel de Servicio": "0.1456292371878134"
+    },
+    {
+      "PDV": "447-REBAJA No. 4 PALMIRA CENTRO",
+      "Nivel de Servicio": "0.1471192215776385"
+    },
+    {
+      "PDV": "1P1-REBAJA No. 9 MONTERIA PLAZA LA CASTELLANA",
+      "Nivel de Servicio": "0.1472244543818302"
+    },
+    {
+      "PDV": "5V2-REBAJA PLUS No. 80 BOGOTA CEDRITOS 5 AVENIDA 19",
+      "Nivel de Servicio": "0.147338429864463"
+    },
+    {
+      "PDV": "1E4-REBAJA PLUS No. 4 CARTAGENA CERRO SAN FELIPE",
+      "Nivel de Servicio": "0.1486152469809279"
+    },
+    {
+      "PDV": "321-REBAJA No. 3 CUCUTA RIVER PLAZA",
+      "Nivel de Servicio": "0.1490160826509187"
+    },
+    {
+      "PDV": "2I3-REBAJA No. 12 BOGOTA MODELIA 1 DAVIVIENDA",
+      "Nivel de Servicio": "0.1493197057266809"
+    },
+    {
+      "PDV": "2L9-REBAJA PLUS No. 6 IBAGUE PARQUE MURILLO TORO",
+      "Nivel de Servicio": "0.1495513871881608"
+    },
+    {
+      "PDV": "1A8-REBAJA PLUS No. 15 CARTAGENA AVENIDA EL CONSULADO",
+      "Nivel de Servicio": "0.1500579765851913"
+    },
+    {
+      "PDV": "210-REBAJA PLUS No. 66 BOGOTA GAITANA",
+      "Nivel de Servicio": "0.1508244366633157"
+    },
+    {
+      "PDV": "2N5-REBAJA PLUS No. 9 BOGOTA TEQUENDAMA",
+      "Nivel de Servicio": "0.1510243605802994"
+    },
+    {
+      "PDV": "5I2-REBAJA PLUS No. 2 LOS PATIOS",
+      "Nivel de Servicio": "0.15121169333475"
+    },
+    {
+      "PDV": "3G8-REBAJA PLUS No. 6 MEDELLIN LOS BALSOS",
+      "Nivel de Servicio": "0.1513844573350187"
+    },
+    {
+      "PDV": "2U2-REBAJA No. 83 BOGOTA CALLE 109",
+      "Nivel de Servicio": "0.1520699462311116"
+    },
+    {
+      "PDV": "260-REBAJA PLUS No. 9 IBAGUE EL PEDREGAL",
+      "Nivel de Servicio": "0.1522509345762046"
+    },
+    {
+      "PDV": "5O1-REBAJA PLUS No. 54 BOGOTA CALLE 100 SURA",
+      "Nivel de Servicio": "0.1552295691433619"
+    },
+    {
+      "PDV": "176-REBAJA PLUS No. 1 LORICA MONUMENTO",
+      "Nivel de Servicio": "0.1553485334036374"
+    },
+    {
+      "PDV": "3E8-REBAJA PLUS No. 1 MEDELLIN LA MOTA",
+      "Nivel de Servicio": "0.1554604513211016"
+    },
+    {
+      "PDV": "168-REBAJA PLUS No. 8 CARTAGENA CRESPO",
+      "Nivel de Servicio": "0.1559326454386326"
+    },
+    {
+      "PDV": "254-REBAJA PLUS No. 1 PAZ DE ARIPORO CENTRO",
+      "Nivel de Servicio": "0.1560696297623173"
+    },
+    {
+      "PDV": "2G6-REBAJA PLUS No. 15 BOGOTA DEPOSITO ZONA INDUSTRIAL",
+      "Nivel de Servicio": "0.1565661640419999"
+    },
+    {
+      "PDV": "3A7-REBAJA PLUS No. 1 ENVIGADO PARQUE ENVIGADO",
+      "Nivel de Servicio": "0.1566014329950637"
+    },
+    {
+      "PDV": "3A8-REBAJA PLUS No. 3 ENVIGADO LEY CENTRO",
+      "Nivel de Servicio": "0.1573113423996318"
+    },
+    {
+      "PDV": "2C9-REBAJA PLUS No. 7 IBAGUE ENSEGUIDA ALBERTO VO5",
+      "Nivel de Servicio": "0.1575021384955207"
+    },
+    {
+      "PDV": "1H5-REBAJA PLUS No. 4 VALLEDUPAR PRIMERO DE MAYO",
+      "Nivel de Servicio": "0.1577450846658974"
+    },
+    {
+      "PDV": "1F7-REBAJA No. 2 VALLEDUPAR LA SEPTIMA",
+      "Nivel de Servicio": "0.158129130782375"
+    },
+    {
+      "PDV": "5T8-REBAJA PLUS No. 33 MEDELLIN EL POBLADO SAN LUCAS",
+      "Nivel de Servicio": "0.1585592906244445"
+    },
+    {
+      "PDV": "291-REBAJA PLUS No. 1 NEIVA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.1592229873549164"
+    },
+    {
+      "PDV": "5G3-REBAJA PLUS No. 29 CALI SANTA MONICA",
+      "Nivel de Servicio": "0.15936460355538"
+    },
+    {
+      "PDV": "323-REBAJA PLUS No. 2 CUCUTA AVENIDA CERO",
+      "Nivel de Servicio": "0.1594055651907154"
+    },
+    {
+      "PDV": "1E7-REBAJA PLUS No. 6 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.1602210879965147"
+    },
+    {
+      "PDV": "5W1-REBAJA PLUS No. 3 SAN MARCOS SAN MARQUITOS",
+      "Nivel de Servicio": "0.1602567874551976"
+    },
+    {
+      "PDV": "423-REBAJA PLUS No. 10 CALI VIPASA",
+      "Nivel de Servicio": "0.1605225187428063"
+    },
+    {
+      "PDV": "180-REBAJA PLUS No. 4 BARRANQUILLA EL POBLADO",
+      "Nivel de Servicio": "0.1606868899942242"
+    },
+    {
+      "PDV": "1Q1-REBAJA No. 15 MONTERIA CENTRO",
+      "Nivel de Servicio": "0.1624742528134741"
+    },
+    {
+      "PDV": "1K5-REBAJA PLUS No. 2 VALLEDUPAR NOVALITO 2",
+      "Nivel de Servicio": "0.1629893809691541"
+    },
+    {
+      "PDV": "421-REBAJA PLUS No. 6 CALI LIMONAR",
+      "Nivel de Servicio": "0.1635519120149212"
+    },
+    {
+      "PDV": "3E7-REBAJA PLUS No. 23 MEDELLIN CENTRO COMERCIAL LA VISITACION",
+      "Nivel de Servicio": "0.1638891815379374"
+    },
+    {
+      "PDV": "3F8-REBAJA PLUS No. 22 MEDELLIN PARQUE BELEN",
+      "Nivel de Servicio": "0.1639915837055219"
+    },
+    {
+      "PDV": "149-REBAJA PLUS No. 3 BARRANQUILLA LA CAMPINA",
+      "Nivel de Servicio": "0.1645684257985802"
+    },
+    {
+      "PDV": "1K1-REBAJA PLUS No. 10 CARTAGENA BARCELONA DE INDIAS",
+      "Nivel de Servicio": "0.1648187293054265"
+    },
+    {
+      "PDV": "2S8-REBAJA PLUS No. 11 BOGOTA GALAN",
+      "Nivel de Servicio": "0.1651849632402797"
+    },
+    {
+      "PDV": "3B6-REBAJA PLUS No. 5 MEDELLIN SURAMERICANA",
+      "Nivel de Servicio": "0.1652373987655764"
+    },
+    {
+      "PDV": "1I8-REBAJA PLUS No. 1 FONSECA ROMPOINT",
+      "Nivel de Servicio": "0.1659439382194358"
+    },
+    {
+      "PDV": "209-REBAJA PLUS No. 21 BOGOTA SUBAZAR 1",
+      "Nivel de Servicio": "0.1659558544523536"
+    },
+    {
+      "PDV": "4A4-REBAJA PLUS No. 8 CALI AVENIDA GUADALUPE",
+      "Nivel de Servicio": "0.1670515270571162"
+    },
+    {
+      "PDV": "352-REBAJA PLUS No. 1 SAN VICENTE DE CHUCURI PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.1675868837393537"
+    },
+    {
+      "PDV": "4R3-REBAJA PLUS No. 2 PEREIRA AVENIDA CIRCUNVALAR",
+      "Nivel de Servicio": "0.1677371072317589"
+    },
+    {
+      "PDV": "2P4-REBAJA PLUS No. 1 VILLETA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.1677484208199277"
+    },
+    {
+      "PDV": "5Y3-REBAJA PLUS No. 2 SINCE CENTRO",
+      "Nivel de Servicio": "0.1677855072886612"
+    },
+    {
+      "PDV": "155-REBAJA PLUS No. 12 CARTAGENA SANTA LUCIA",
+      "Nivel de Servicio": "0.1681154602411776"
+    },
+    {
+      "PDV": "396-REBAJA PLUS No. 1 VILLA DEL ROSARIO BARRIO GRAMALOTE",
+      "Nivel de Servicio": "0.1682430929038315"
+    },
+    {
+      "PDV": "3G1-REBAJA No. 26 MEDELLIN LAURELES",
+      "Nivel de Servicio": "0.1685244267242554"
+    },
+    {
+      "PDV": "191-REBAJA PLUS No. 14 CARTAGENA SAN DIEGO",
+      "Nivel de Servicio": "0.1694288633708472"
+    },
+    {
+      "PDV": "458-REBAJA PLUS No. 1 ZARZAL PARQUE SANTANDER",
+      "Nivel de Servicio": "0.1695936594107541"
+    },
+    {
+      "PDV": "201-REBAJA PLUS No. 19 BOGOTA QUIRIGUA",
+      "Nivel de Servicio": "0.1698983487986202"
+    },
+    {
+      "PDV": "315-REBAJA PLUS No. 2 BUCARAMANGA CIUDADELA REAL DE MINAS",
+      "Nivel de Servicio": "0.170063839646672"
+    },
+    {
+      "PDV": "5F6-REBAJA PLUS No. 28 CALI MALL ALTO PANCE",
+      "Nivel de Servicio": "0.1704846328317619"
+    },
+    {
+      "PDV": "5J9-REBAJA PLUS No. 21 BARRANQUILLA PARQUE VENEZUELA",
+      "Nivel de Servicio": "0.1705376467297461"
+    },
+    {
+      "PDV": "1O8-REBAJA PLUS No. 1 SAN JUAN DEL CESAR HOSPITALES",
+      "Nivel de Servicio": "0.1705441695276514"
+    },
+    {
+      "PDV": "289-REBAJA PLUS No. 59 BOGOTA SANTA LIBRADA 2",
+      "Nivel de Servicio": "0.1708599132158858"
+    },
+    {
+      "PDV": "378-REBAJA PLUS No. 1 AGUACHICA TERMINAL DE TRANSPORTES",
+      "Nivel de Servicio": "0.1711069075289729"
+    },
+    {
+      "PDV": "1D7-REBAJA PLUS No. 9 CARTAGENA PIE DE LA POPA",
+      "Nivel de Servicio": "0.1711828838091397"
+    },
+    {
+      "PDV": "3J2-REBAJA No. 3 ARAUCA CRISTO REY",
+      "Nivel de Servicio": "0.1712295595049324"
+    },
+    {
+      "PDV": "307-REBAJA PLUS No. 5 BUCARAMANGA CABECERA",
+      "Nivel de Servicio": "0.1713499161653828"
+    },
+    {
+      "PDV": "719-REBAJA PLUS No. 3 YUMBO ACOPI",
+      "Nivel de Servicio": "0.1716808950460636"
+    },
+    {
+      "PDV": "2R7-REBAJA PLUS No. 6 BOGOTA CALLE 174",
+      "Nivel de Servicio": "0.171683057780344"
+    },
+    {
+      "PDV": "2L2-REBAJA PLUS No. 2 NEIVA PRADO ALTO",
+      "Nivel de Servicio": "0.1719938001616458"
+    },
+    {
+      "PDV": "5M5-REBAJA PLUS No. 18 BUCARAMANGA C.C. LA QUINTA CABECERA",
+      "Nivel de Servicio": "0.1720777527386517"
+    },
+    {
+      "PDV": "5U8-REBAJA PLUS No. 40 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.1722781298552083"
+    },
+    {
+      "PDV": "5F4-REBAJA PLUS No. 27 CALI NORMANDIA",
+      "Nivel de Servicio": "0.1723165561034367"
+    },
+    {
+      "PDV": "1H2-REBAJA PLUS No. 11 VALLEDUPAR LA POPA",
+      "Nivel de Servicio": "0.1723518089065247"
+    },
+    {
+      "PDV": "382-REBAJA PLUS No. 2 ARAUCA PARQUE CALDAS",
+      "Nivel de Servicio": "0.1724289669871805"
+    },
+    {
+      "PDV": "444-REBAJA No. 1 PALMIRA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.1725040828715362"
+    },
+    {
+      "PDV": "5D9-REBAJA PLUS No. 2 FUSAGASUGA LA QUERENCIA",
+      "Nivel de Servicio": "0.173483369424076"
+    },
+    {
+      "PDV": "338-REBAJA PLUS No. 1 DUITAMA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.1735213348727654"
+    },
+    {
+      "PDV": "2G3-REBAJA PLUS No. 1 MELGAR PARQUE CENTRAL",
+      "Nivel de Servicio": "0.1735782061832286"
+    },
+    {
+      "PDV": "5A4-REBAJA No. 34 CARTAGENA EL LAGUITO",
+      "Nivel de Servicio": "0.1738677089981208"
+    },
+    {
+      "PDV": "3B8-REBAJA No. 6 MEDELLIN EL POBLADO",
+      "Nivel de Servicio": "0.1740586965254109"
+    },
+    {
+      "PDV": "720-REBAJA PLUS No. 5 PEREIRA CERRITOS",
+      "Nivel de Servicio": "0.1740946983856204"
+    },
+    {
+      "PDV": "4P6-REBAJA No. 6 PEREIRA INVICO",
+      "Nivel de Servicio": "0.1747449234288768"
+    },
+    {
+      "PDV": "211-REBAJA PLUS No. 17 BOGOTA CHAPINERO 1 CENTRO",
+      "Nivel de Servicio": "0.1750946174992154"
+    },
+    {
+      "PDV": "256-REBAJA PLUS No. 1 UBATE PLAZA NEIRA",
+      "Nivel de Servicio": "0.1753798265283277"
+    },
+    {
+      "PDV": "103-REBAJA No. 3 BARRANQUILLA SAN VICENTE",
+      "Nivel de Servicio": "0.1758932864283042"
+    },
+    {
+      "PDV": "5N2-REBAJA PLUS No. 25 MEDELLIN PARQUE EL POBLADO",
+      "Nivel de Servicio": "0.1767796631112581"
+    },
+    {
+      "PDV": "4A3-REBAJA No. 30 CALI SINDICAL",
+      "Nivel de Servicio": "0.1771560046632841"
+    },
+    {
+      "PDV": "340-REBAJA No. 1 SOGAMOSO LAS MAGNOLIAS",
+      "Nivel de Servicio": "0.1773266349464903"
+    },
+    {
+      "PDV": "2I6-REBAJA No. 67 BOGOTA EL BOSQUE",
+      "Nivel de Servicio": "0.1774475028925832"
+    },
+    {
+      "PDV": "5W9-REBAJA PLUS No. 41 CARTAGENA MANGA",
+      "Nivel de Servicio": "0.1775530645155118"
+    },
+    {
+      "PDV": "218-REBAJA PLUS No. 3 BOGOTA CONTADOR",
+      "Nivel de Servicio": "0.1776073062968273"
+    },
+    {
+      "PDV": "5C2-REBAJA No. 5 LORICA DISTRACOM",
+      "Nivel de Servicio": "0.1776847009329323"
+    },
+    {
+      "PDV": "5L4-REBAJA PLUS No. 49 BOGOTA SALITRE 4",
+      "Nivel de Servicio": "0.1789541468319947"
+    },
+    {
+      "PDV": "1M8-REBAJA No. 1 TOLU",
+      "Nivel de Servicio": "0.1798152019984482"
+    },
+    {
+      "PDV": "255-REBAJA PLUS No. 3 UBATE FRENTE TELECOM",
+      "Nivel de Servicio": "0.180539010006695"
+    },
+    {
+      "PDV": "5U1-REBAJA PLUS No. 2 MARIQUITA CALLE PRINCIPAL",
+      "Nivel de Servicio": "0.1808173199394512"
+    },
+    {
+      "PDV": "5J1-REBAJA PLUS No. 24 CARTAGENA EDS MOBIL PEDRO DE HEREDIA",
+      "Nivel de Servicio": "0.1810267453841933"
+    },
+    {
+      "PDV": "4E5-REBAJA PLUS No. 5 PALMIRA CENTRO",
+      "Nivel de Servicio": "0.1814167236016341"
+    },
+    {
+      "PDV": "5D2-REBAJA PLUS No. 1 BELLO EL ANGEL",
+      "Nivel de Servicio": "0.1818549466818824"
+    },
+    {
+      "PDV": "5O2-REBAJA PLUS No. 12 IBAGUE BELEN",
+      "Nivel de Servicio": "0.18191380669729"
+    },
+    {
+      "PDV": "131-REBAJA PLUS No. 1 PLANETA RICA FRENTE AL PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.1822338698124492"
+    },
+    {
+      "PDV": "945-REBAJA PLUS No. 1 NECOCLI",
+      "Nivel de Servicio": "0.1824067594575364"
+    },
+    {
+      "PDV": "162-REBAJA No. 11 CARTAGENA PASEO LA CASTELLANA",
+      "Nivel de Servicio": "0.1825949375395174"
+    },
+    {
+      "PDV": "2X4-REBAJA No. 115 BOGOTA MARLY 1",
+      "Nivel de Servicio": "0.1828862971303792"
+    },
+    {
+      "PDV": "3G9-REBAJA PLUS No. 26 MEDELLIN MANRIQUE CENTRAL",
+      "Nivel de Servicio": "0.183100879705542"
+    },
+    {
+      "PDV": "160-REBAJA PLUS No. 13 CARTAGENA ZARAGOCILLA",
+      "Nivel de Servicio": "0.1832099024408933"
+    },
+    {
+      "PDV": "1J9-REBAJA PLUS No. 36 CARTAGENA ALTO BOSQUE",
+      "Nivel de Servicio": "0.1835843116156052"
+    },
+    {
+      "PDV": "3B2-REBAJA PLUS No. 2 LA CEJA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.1840371172025017"
+    },
+    {
+      "PDV": "351-REBAJA PLUS No. 1 FLORIDABLANCA CANAVERAL",
+      "Nivel de Servicio": "0.1846191531712669"
+    },
+    {
+      "PDV": "5M8-REBAJA PLUS No. 28 BOGOTA SALITRE PLAZA 5",
+      "Nivel de Servicio": "0.1849674416845251"
+    },
+    {
+      "PDV": "5Y2-REBAJA PLUS No. 1 LA CALERA C. C. LA CALERA GARDENS",
+      "Nivel de Servicio": "0.1852971710205891"
+    },
+    {
+      "PDV": "115-REBAJA No. 2 SANTA MARTA CENTRO HISTORICO",
+      "Nivel de Servicio": "0.1855890143938975"
+    },
+    {
+      "PDV": "5G9-REBAJA PLUS No. 12 BARRANQUILLA VILLA CAMPESTRE (PUERTO COLOMBIA)",
+      "Nivel de Servicio": "0.1855929508557718"
+    },
+    {
+      "PDV": "3M3-REBAJA PLUS No. 9 MEDELLIN CIUDAD RIO CLINICA EL PRADO",
+      "Nivel de Servicio": "0.1859670159149832"
+    },
+    {
+      "PDV": "5D4-REBAJA PLUS No. 25 CALI CIUDAD REAL",
+      "Nivel de Servicio": "0.1863161139598779"
+    },
+    {
+      "PDV": "150-REBAJA PLUS No. 1 MAGANGUE HOSPITAL",
+      "Nivel de Servicio": "0.1868794877768486"
+    },
+    {
+      "PDV": "2C4-REBAJA PLUS No. 1 GIRARDOT EL CAMELLON",
+      "Nivel de Servicio": "0.1876636979408994"
+    },
+    {
+      "PDV": "2K2-REBAJA PLUS No. 4 FUSAGASUGA COLEGIO SANTANDER",
+      "Nivel de Servicio": "0.1880664329793428"
+    },
+    {
+      "PDV": "5J3-REBAJA PLUS No. 39 BOGOTA POLO CLUB",
+      "Nivel de Servicio": "0.1882608463110443"
+    },
+    {
+      "PDV": "5X6-REBAJA PLUS No. 68 CALI CIUDAD JARDIN AV SAN JOAQUIN",
+      "Nivel de Servicio": "0.1886693038022652"
+    },
+    {
+      "PDV": "253-REBAJA PLUS No. 2 ZIPAQUIRA CENTRO",
+      "Nivel de Servicio": "0.189238609675259"
+    },
+    {
+      "PDV": "4Q6-REBAJA PLUS No. 2 ARMENIA IBG - CALLE CIELOS ABIERTOS",
+      "Nivel de Servicio": "0.1896226115709445"
+    },
+    {
+      "PDV": "2Z3-REBAJA No. 125 BOGOTA SANTA PAULA 1",
+      "Nivel de Servicio": "0.1899981274558937"
+    },
+    {
+      "PDV": "2L1-REBAJA No. 14 BOGOTA NORMANDIA",
+      "Nivel de Servicio": "0.1905698703349138"
+    },
+    {
+      "PDV": "460-REBAJA PLUS No. 1 ROLDANILLO CENTRO",
+      "Nivel de Servicio": "0.1907574928784327"
+    },
+    {
+      "PDV": "5C1-REBAJA PLUS No. 1 VILLA DE LEYVA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.1909446217626212"
+    },
+    {
+      "PDV": "203-REBAJA PLUS No. 1 FACATATIVA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.1912648488276508"
+    },
+    {
+      "PDV": "157-REBAJA No. 13 BARRANQUILLA DELICIAS SAN FRANCISCO",
+      "Nivel de Servicio": "0.1916038199627463"
+    },
+    {
+      "PDV": "2I5-REBAJA PLUS No. 1 VILLAVICENCIO BARZAL ALTO",
+      "Nivel de Servicio": "0.1918381093232665"
+    },
+    {
+      "PDV": "2Q3-REBAJA No. 14 IBAGUE EL CARMEN",
+      "Nivel de Servicio": "0.1918457292984465"
+    },
+    {
+      "PDV": "303-REBAJA PLUS No. 12 BUCARAMANGA PASAJE DE COMERCIO",
+      "Nivel de Servicio": "0.1919077921957285"
+    },
+    {
+      "PDV": "112-REBAJA PLUS No. 1 CERETE CALLE DEL COMERCIO",
+      "Nivel de Servicio": "0.192092443876991"
+    },
+    {
+      "PDV": "1L3-REBAJA No. 13 MONTERIA CENTRO",
+      "Nivel de Servicio": "0.192694194855782"
+    },
+    {
+      "PDV": "2E2-REBAJA No. 27 BOGOTA PRADO VERANIEGO 1",
+      "Nivel de Servicio": "0.1927034932752003"
+    },
+    {
+      "PDV": "1H3-REBAJA PLUS No. 1 EL DIFICIL CENTRO",
+      "Nivel de Servicio": "0.1928350873158814"
+    },
+    {
+      "PDV": "1A9-REBAJA No. 20 CARTAGENA C.C. LOS EJECUTIVOS",
+      "Nivel de Servicio": "0.1928978273853325"
+    },
+    {
+      "PDV": "5K6-REBAJA PLUS No. 1 TOLU CENTRO",
+      "Nivel de Servicio": "0.1929132061460289"
+    },
+    {
+      "PDV": "5N3-REBAJA PLUS No. 3 ITAGUI AVENIDA CARRERA 52",
+      "Nivel de Servicio": "0.1933234621496807"
+    },
+    {
+      "PDV": "3M5-REBAJA PLUS No. 9 BUCARAMANGA CACIQUE",
+      "Nivel de Servicio": "0.193884752003454"
+    },
+    {
+      "PDV": "1S3-REBAJA No. 13 CARTAGENA SAN JOSE DE LOS CAMPANOS",
+      "Nivel de Servicio": "0.1946966815085454"
+    },
+    {
+      "PDV": "3H7-REBAJA PLUS No. 7 MEDELLIN LA AMERICA",
+      "Nivel de Servicio": "0.1948537348764556"
+    },
+    {
+      "PDV": "257-REBAJA No. 1 CHIQUINQUIRA CALLE PEATONAL",
+      "Nivel de Servicio": "0.1958718482086494"
+    },
+    {
+      "PDV": "5M6-REBAJA PLUS No. 1 COVENAS CENTRO",
+      "Nivel de Servicio": "0.1961487361374203"
+    },
+    {
+      "PDV": "457-REBAJA PLUS No. 3 TULUA CENTRO",
+      "Nivel de Servicio": "0.1961712034191088"
+    },
+    {
+      "PDV": "242-REBAJA PLUS No. 40 BOGOTA KENNEDY 1 CENTRAL",
+      "Nivel de Servicio": "0.1962642974371809"
+    },
+    {
+      "PDV": "5B9-REBAJA PLUS No. 23 CALI MELENDEZ",
+      "Nivel de Servicio": "0.1962728331108214"
+    },
+    {
+      "PDV": "3L9-REBAJA No. 4 MEDELLIN GUAYABAL",
+      "Nivel de Servicio": "0.1968143433412478"
+    },
+    {
+      "PDV": "5U5-REBAJA PLUS No. 19 IBAGUE MONTECARLO EL SALADO",
+      "Nivel de Servicio": "0.1970946127904542"
+    },
+    {
+      "PDV": "322-REBAJA PLUS No. 1 CUCUTA LOS ACACIOS",
+      "Nivel de Servicio": "0.1972772492635748"
+    },
+    {
+      "PDV": "350-REBAJA PLUS No. 1 GIRON EL POBLADO",
+      "Nivel de Servicio": "0.1974785050802906"
+    },
+    {
+      "PDV": "287-REBAJA PLUS No. 2 LETICIA CENTRO",
+      "Nivel de Servicio": "0.197504622026313"
+    },
+    {
+      "PDV": "1P7-REBAJA No. 10 CARTAGENA MANGA",
+      "Nivel de Servicio": "0.1975640341880997"
+    },
+    {
+      "PDV": "1O3-REBAJA No. 32 CARTAGENA VILLA GRANDE DE INDIAS (TURBACO)",
+      "Nivel de Servicio": "0.1977363365492145"
+    },
+    {
+      "PDV": "1C3-REBAJA PLUS No. 16 CARTAGENA MI VAQUITA",
+      "Nivel de Servicio": "0.1978401241726391"
+    },
+    {
+      "PDV": "3C1-REBAJA PLUS No. 36 MEDELLIN PLAZUELA URIBE URIBE",
+      "Nivel de Servicio": "0.1979306224152156"
+    },
+    {
+      "PDV": "4S1-REBAJA PLUS No. 1 SANTA ROSA DE CABAL CENTRO",
+      "Nivel de Servicio": "0.1983045435814168"
+    },
+    {
+      "PDV": "292-REBAJA No. 2 NEIVA PLAZA CIVICA",
+      "Nivel de Servicio": "0.1983410374209462"
+    },
+    {
+      "PDV": "133-REBAJA PLUS No. 7 BARRANQUILLA ANDES",
+      "Nivel de Servicio": "0.1989031741279175"
+    },
+    {
+      "PDV": "4P9-REBAJA PLUS No. 1 PEREIRA AVENIDA 30 DE AGOSTO",
+      "Nivel de Servicio": "0.1989231045592618"
+    },
+    {
+      "PDV": "234-REBAJA PLUS No. 1 MOSQUERA CENTRO",
+      "Nivel de Servicio": "0.1989528728273747"
+    },
+    {
+      "PDV": "5T4-REBAJA PLUS No. 7 BOGOTA CENTRO COMERCIAL TUNAL",
+      "Nivel de Servicio": "0.1993680203763724"
+    },
+    {
+      "PDV": "3J7-REBAJA No. 1 CHIGORODO CENTRO",
+      "Nivel de Servicio": "0.199781495063785"
+    },
+    {
+      "PDV": "5F7-REBAJA PLUS No. 33 BOGOTA CEDRITOS 3",
+      "Nivel de Servicio": "0.1999199248860001"
+    },
+    {
+      "PDV": "216-REBAJA PLUS No. 23 BOGOTA ORQUIDEAS",
+      "Nivel de Servicio": "0.2000212913059583"
+    },
+    {
+      "PDV": "3A6-REBAJA PLUS No. 2 BELLO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2001007945650335"
+    },
+    {
+      "PDV": "5P7-REBAJA PLUS No. 3 MAGANGUE MIRAFLORES",
+      "Nivel de Servicio": "0.2002281830179743"
+    },
+    {
+      "PDV": "1N7-REBAJA PLUS No. 8 SANTA MARTA ACODIS",
+      "Nivel de Servicio": "0.2006672617609381"
+    },
+    {
+      "PDV": "5I6-REBAJA PLUS No. 14 MEDELLIN PALMAGRANDE",
+      "Nivel de Servicio": "0.2012744859384299"
+    },
+    {
+      "PDV": "380-REBAJA PLUS No. 2 TUNJA DIAGONAL UNICENTRO",
+      "Nivel de Servicio": "0.2014799100732362"
+    },
+    {
+      "PDV": "4R6-REBAJA No. 12 PEREIRA LA VILLA OLIMPICA (GAMA)",
+      "Nivel de Servicio": "0.2014895201822567"
+    },
+    {
+      "PDV": "3K3-REBAJA No. 2 SABANETA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2016753489981387"
+    },
+    {
+      "PDV": "2N1-REBAJA No. 1 MESITAS PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2019528438388392"
+    },
+    {
+      "PDV": "2Z4-REBAJA No. 126 BOGOTA UNICENTRO 1",
+      "Nivel de Servicio": "0.2022679028030193"
+    },
+    {
+      "PDV": "1J8-REBAJA PLUS No. 4 LORICA EL PARAISO",
+      "Nivel de Servicio": "0.2032637074572609"
+    },
+    {
+      "PDV": "183-REBAJA PLUS No. 1 TURBACO CENTRO ESQUINA ARENAS",
+      "Nivel de Servicio": "0.2032767088527636"
+    },
+    {
+      "PDV": "377-REBAJA No. 3 OCANA CENTRO",
+      "Nivel de Servicio": "0.2033524424661395"
+    },
+    {
+      "PDV": "362-REBAJA No. 1 PAMPLONA CASA DE MERCADO",
+      "Nivel de Servicio": "0.2034142903645568"
+    },
+    {
+      "PDV": "342-REBAJA PLUS No. 2 BARBOSA TERMINAL DE TRANSPORTES",
+      "Nivel de Servicio": "0.203717240737413"
+    },
+    {
+      "PDV": "1F1-REBAJA PLUS No. 1 ARBOLETES PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2041402606000208"
+    },
+    {
+      "PDV": "1C2-REBAJA PLUS No. 5 BARRANQUILLA EL LIMONCITO",
+      "Nivel de Servicio": "0.2043333886038551"
+    },
+    {
+      "PDV": "129-REBAJA PLUS No. 1 EL CARMEN DE BOLIVAR CENTRO",
+      "Nivel de Servicio": "0.2043892459441807"
+    },
+    {
+      "PDV": "3C3-REBAJA PLUS No. 16 MEDELLIN BELEN",
+      "Nivel de Servicio": "0.2044639738947165"
+    },
+    {
+      "PDV": "238-REBAJA No. 133 BOGOTA NORMANDIA 2",
+      "Nivel de Servicio": "0.2045049328542048"
+    },
+    {
+      "PDV": "2D7-REBAJA PLUS No. 5 IBAGUE JORDAN ETAPA I",
+      "Nivel de Servicio": "0.2045911362385564"
+    },
+    {
+      "PDV": "263-REBAJA PLUS No. 1 LERIDA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2047812338150229"
+    },
+    {
+      "PDV": "2J5-REBAJA PLUS No. 7 VILLAVICENCIO BARZAL",
+      "Nivel de Servicio": "0.204857724510957"
+    },
+    {
+      "PDV": "5T1-REBAJA PLUS No. 38 CARTAGENA EL BOSQUE",
+      "Nivel de Servicio": "0.2049885136295631"
+    },
+    {
+      "PDV": "1L5-REBAJA PLUS No. 1 SAN ANTERO CENTRO",
+      "Nivel de Servicio": "0.2051622213462172"
+    },
+    {
+      "PDV": "265-REBAJA PLUS No. 2 YOPAL PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2054306620182487"
+    },
+    {
+      "PDV": "3B7-REBAJA PLUS No. 2 MEDELLIN FLORIDA NUEVA",
+      "Nivel de Servicio": "0.2056145811464544"
+    },
+    {
+      "PDV": "1O4-REBAJA PLUS No. 4 MONTERIA EL DORADO",
+      "Nivel de Servicio": "0.2058435456353805"
+    },
+    {
+      "PDV": "3G3-REBAJA PLUS No. 4 MEDELLIN LA FLORESTA",
+      "Nivel de Servicio": "0.2059387049037999"
+    },
+    {
+      "PDV": "258-REBAJA No. 2 CHIQUINQUIRA CENTRO",
+      "Nivel de Servicio": "0.2064021949320481"
+    },
+    {
+      "PDV": "5P6-REBAJA PLUS No. 27 BARRANQUILLA EDS COLISEO",
+      "Nivel de Servicio": "0.2068536325945003"
+    },
+    {
+      "PDV": "177-REBAJA PLUS No. 5 MONTERIA BUENAVISTA",
+      "Nivel de Servicio": "0.2070363834654405"
+    },
+    {
+      "PDV": "1E2-REBAJA PLUS No. 2 MONTERIA VERSALLES",
+      "Nivel de Servicio": "0.2075624416693412"
+    },
+    {
+      "PDV": "2H3-REBAJA PLUS No. 77 BOGOTA GERMANIA",
+      "Nivel de Servicio": "0.2076214059180629"
+    },
+    {
+      "PDV": "988-REBAJA No. 2 CHIA AVENIDA PRADILLA",
+      "Nivel de Servicio": "0.2076492334985847"
+    },
+    {
+      "PDV": "431-REBAJA PLUS No. 1 LA UNION CENTRO",
+      "Nivel de Servicio": "0.2077555817677193"
+    },
+    {
+      "PDV": "2T6-REBAJA PLUS No. 1 LETICIA FRONTERA",
+      "Nivel de Servicio": "0.2078046379110835"
+    },
+    {
+      "PDV": "2S4-REBAJA PLUS No. 71 BOGOTA ALHAMBRA 1",
+      "Nivel de Servicio": "0.2080530389929772"
+    },
+    {
+      "PDV": "1D8-REBAJA PLUS No. 2 MONTELIBANO TIERRA GRATA",
+      "Nivel de Servicio": "0.208153849145953"
+    },
+    {
+      "PDV": "3Y2-REBAJA PLUS No. 1 MARIQUITA HOSPITAL",
+      "Nivel de Servicio": "0.2084548828948949"
+    },
+    {
+      "PDV": "297-REBAJA PLUS No. 1 PURIFICACION CENTRO",
+      "Nivel de Servicio": "0.2087453253862233"
+    },
+    {
+      "PDV": "986-REBAJA PLUS No. 24 IBAGUE SURTIPLAZA",
+      "Nivel de Servicio": "0.2089104590583236"
+    },
+    {
+      "PDV": "165-REBAJA PLUS No. 20 CARTAGENA LOS CORALES",
+      "Nivel de Servicio": "0.2096362010262093"
+    },
+    {
+      "PDV": "4K4-REBAJA PLUS No. 13 CALI VALLE DE LILI",
+      "Nivel de Servicio": "0.2096840232835538"
+    },
+    {
+      "PDV": "1K2-REBAJA PLUS No. 1 LA JAGUA DE IBIRICO AVENIDA LA YE",
+      "Nivel de Servicio": "0.2097358304769641"
+    },
+    {
+      "PDV": "5V3-REBAJA PLUS No. 82 BOGOTA VILLA DEL PRADO",
+      "Nivel de Servicio": "0.2097588150918984"
+    },
+    {
+      "PDV": "251-REBAJA PLUS No. 5 FUSAGASUGA SECTOR BANCARIO",
+      "Nivel de Servicio": "0.2097758194166587"
+    },
+    {
+      "PDV": "5O8-REBAJA PLUS No. 30 MEDELLIN C. C. CAMINO REAL",
+      "Nivel de Servicio": "0.2098716952922606"
+    },
+    {
+      "PDV": "5H3-REBAJA PLUS No. 37 BOGOTA CALLE 26 GRAN AMERICA",
+      "Nivel de Servicio": "0.2099317199613842"
+    },
+    {
+      "PDV": "116-REBAJA PLUS No. 33 CARTAGENA PASEO BOLIVAR",
+      "Nivel de Servicio": "0.2099838906408186"
+    },
+    {
+      "PDV": "301-REBAJA PLUS No. 4 BUCARAMANGA GUARIN",
+      "Nivel de Servicio": "0.2101884272840263"
+    },
+    {
+      "PDV": "2Z2-REBAJA PLUS No. 87 BOGOTA COUNTRY 2",
+      "Nivel de Servicio": "0.2105597365223021"
+    },
+    {
+      "PDV": "355-REBAJA PLUS No. 1 TUNJA PARQUE RECREACIONAL",
+      "Nivel de Servicio": "0.2106349012616013"
+    },
+    {
+      "PDV": "5S6-REBAJA PLUS No. 12 MONTERIA PORTAL DEL ALMERIA",
+      "Nivel de Servicio": "0.2107023957447477"
+    },
+    {
+      "PDV": "339-REBAJA No. 2 DUITAMA",
+      "Nivel de Servicio": "0.2107570370238562"
+    },
+    {
+      "PDV": "146-REBAJA PLUS No. 11 MONTERIA SECTOR BANCARIO",
+      "Nivel de Servicio": "0.2109280631918624"
+    },
+    {
+      "PDV": "989-REBAJA No. 1 CAREPA CENTRO",
+      "Nivel de Servicio": "0.2114543507968381"
+    },
+    {
+      "PDV": "3I6-REBAJA PLUS No. 1 LOS PATIOS SAN NICOLAS II ETAPA",
+      "Nivel de Servicio": "0.2114849072385365"
+    },
+    {
+      "PDV": "248-REBAJA No. 2 SOACHA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2115329386990524"
+    },
+    {
+      "PDV": "2F5-REBAJA No. 70 BOGOTA NIZA 1",
+      "Nivel de Servicio": "0.2116032668251835"
+    },
+    {
+      "PDV": "232-REBAJA No. 39 BOGOTA 20 DE JULIO 2",
+      "Nivel de Servicio": "0.2116352585544578"
+    },
+    {
+      "PDV": "326-REBAJA PLUS No. 8 BUCARAMANGA LAS DELICIAS",
+      "Nivel de Servicio": "0.2116842583302966"
+    },
+    {
+      "PDV": "3G2-REBAJA PLUS No. 3 MEDELLIN AVENIDA 33",
+      "Nivel de Servicio": "0.2121620680177473"
+    },
+    {
+      "PDV": "5G2-REBAJA PLUS No. 11 MEDELLIN C. C. MONTERREY",
+      "Nivel de Servicio": "0.2124169185694385"
+    },
+    {
+      "PDV": "237-REBAJA PLUS No. 58 BOGOTA VENECIA",
+      "Nivel de Servicio": "0.2125639987342595"
+    },
+    {
+      "PDV": "1F8-REBAJA PLUS No. 7 VALLEDUPAR CALZADO SPRING",
+      "Nivel de Servicio": "0.2127068085647393"
+    },
+    {
+      "PDV": "2L3-REBAJA No. 4 GIRARDOT KENNEDY",
+      "Nivel de Servicio": "0.2127869836029026"
+    },
+    {
+      "PDV": "2M6-REBAJA PLUS No. 1 ZIPAQUIRA SAN PABLO",
+      "Nivel de Servicio": "0.2127964207530109"
+    },
+    {
+      "PDV": "5L3-REBAJA PLUS No. 39 CALI VERSALLES",
+      "Nivel de Servicio": "0.2137110907395485"
+    },
+    {
+      "PDV": "1E8-REBAJA PLUS No. 7 CARTAGENA C. C. RONDA REAL",
+      "Nivel de Servicio": "0.2137556110932269"
+    },
+    {
+      "PDV": "438-REBAJA No. 1 IPIALES CENTRO",
+      "Nivel de Servicio": "0.2141585574296999"
+    },
+    {
+      "PDV": "173-REBAJA PLUS No. 6 BARRANQUILLA PARAISO",
+      "Nivel de Servicio": "0.2141670023787905"
+    },
+    {
+      "PDV": "2Q6-REBAJA PLUS No. 1 CHIQUINQUIRA PARQUE JULIO FLOREZ",
+      "Nivel de Servicio": "0.2143550849893971"
+    },
+    {
+      "PDV": "1K9-REBAJA PLUS No. 3 SINCELEJO LA PAJUELA",
+      "Nivel de Servicio": "0.2144686421095665"
+    },
+    {
+      "PDV": "1G1-REBAJA PLUS No. 5 VALLEDUPAR SAN VICENTE",
+      "Nivel de Servicio": "0.2149427132993852"
+    },
+    {
+      "PDV": "422-REBAJA PLUS No. 17 CALI CALLE NOVENA",
+      "Nivel de Servicio": "0.2150283570553619"
+    },
+    {
+      "PDV": "2B3-REBAJA PLUS No. 1 GARZON ROSARIO",
+      "Nivel de Servicio": "0.2150356660656795"
+    },
+    {
+      "PDV": "2N3-REBAJA PLUS No. 2 UBATE PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2151059088597221"
+    },
+    {
+      "PDV": "2N9-REBAJA No. 23 BOGOTA ESTRADA 2 LA PLACITA",
+      "Nivel de Servicio": "0.2154581353393983"
+    },
+    {
+      "PDV": "385-REBAJA PLUS No. 6 BUCARAMANGA SAN ALONSO",
+      "Nivel de Servicio": "0.2154715016099527"
+    },
+    {
+      "PDV": "344-REBAJA PLUS No. 1 SOGAMOSO PARQUE DE LA VILLA",
+      "Nivel de Servicio": "0.2155235188680911"
+    },
+    {
+      "PDV": "2Z1-REBAJA PLUS No. 44 BOGOTA SANTA BARBARA 1",
+      "Nivel de Servicio": "0.2156034536093502"
+    },
+    {
+      "PDV": "2W8-REBAJA PLUS No. 42 BOGOTA BOSA 3 CENTRO",
+      "Nivel de Servicio": "0.2158431955648341"
+    },
+    {
+      "PDV": "1D3-REBAJA PLUS No. 2 SAN MARCOS CENTRO",
+      "Nivel de Servicio": "0.2160381486944368"
+    },
+    {
+      "PDV": "2D1-REBAJA No. 4 IBAGUE DIAGONAL A KOKORIKO",
+      "Nivel de Servicio": "0.2161184234884335"
+    },
+    {
+      "PDV": "454-REBAJA No. 1 CARTAGO GALERIA",
+      "Nivel de Servicio": "0.2164186118962022"
+    },
+    {
+      "PDV": "2T7-REBAJA No. 79 BOGOTA BOSA 2 LA ESTACION",
+      "Nivel de Servicio": "0.2166086956716572"
+    },
+    {
+      "PDV": "3C2-REBAJA PLUS No. 18 MEDELLIN SAN DIEGO",
+      "Nivel de Servicio": "0.2167749037594491"
+    },
+    {
+      "PDV": "5K2-REBAJA PLUS No. 3 MANIZALES CLINICA ANGEL",
+      "Nivel de Servicio": "0.2167753188712021"
+    },
+    {
+      "PDV": "445-REBAJA No. 2 PALMIRA CENTRO",
+      "Nivel de Servicio": "0.2173870585581811"
+    },
+    {
+      "PDV": "5O3-REBAJA PLUS No. 29 MEDELLIN BELEN C.C. LOS MOLINOS",
+      "Nivel de Servicio": "0.2174057199322405"
+    },
+    {
+      "PDV": "266-REBAJA PLUS No. 4 YOPAL PARQUE DE LA ESTANCIA",
+      "Nivel de Servicio": "0.2175848282563097"
+    },
+    {
+      "PDV": "5C8-REBAJA PLUS No. 8 BARRANQUILLA BULEVAR RECREO",
+      "Nivel de Servicio": "0.2178594399059271"
+    },
+    {
+      "PDV": "2T2-REBAJA No. 74 BOGOTA VILLA ALSACIA",
+      "Nivel de Servicio": "0.2179395696472837"
+    },
+    {
+      "PDV": "2K4-REBAJA PLUS No. 10 IBAGUE JORDAN ETAPA VIII",
+      "Nivel de Servicio": "0.2181959627844688"
+    },
+    {
+      "PDV": "5F3-REBAJA PLUS No. 3 RIONEGRO SAVANNA PLAZA",
+      "Nivel de Servicio": "0.2181979054415176"
+    },
+    {
+      "PDV": "424-REBAJA No. 24 CALI BARRIO CALDAS",
+      "Nivel de Servicio": "0.2182668238590206"
+    },
+    {
+      "PDV": "5U4-REBAJA PLUS No. 79 BOGOTA CENTRO INTERNACIONAL",
+      "Nivel de Servicio": "0.2184250762819177"
+    },
+    {
+      "PDV": "145-REBAJA PLUS No. 10 SANTA MARTA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2185759451426595"
+    },
+    {
+      "PDV": "5K3-REBAJA PLUS No. 4 SINCELEJO LA FORD",
+      "Nivel de Servicio": "0.2187522568669893"
+    },
+    {
+      "PDV": "222-REBAJA No. 55 BOGOTA SAN VICTORINO 2 CALLE DOCE",
+      "Nivel de Servicio": "0.218981542865078"
+    },
+    {
+      "PDV": "1B1-REBAJA PLUS No. 10 BARRANQUILLA PARQUE OLAYA",
+      "Nivel de Servicio": "0.219016193536457"
+    },
+    {
+      "PDV": "134-REBAJA PLUS No. 2 MAGANGUE PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2194371580630019"
+    },
+    {
+      "PDV": "2G5-REBAJA PLUS No. 3 IBAGUE SAN SIMON",
+      "Nivel de Servicio": "0.219607632274275"
+    },
+    {
+      "PDV": "3L7-REBAJA PLUS No. 2 ITAGUI SANTA MARIA",
+      "Nivel de Servicio": "0.2199910888463568"
+    },
+    {
+      "PDV": "273-REBAJA No. 2 ACACIAS PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2201140761541747"
+    },
+    {
+      "PDV": "2A5-REBAJA No. 2 LA PLATA GALERIA",
+      "Nivel de Servicio": "0.2204089117210761"
+    },
+    {
+      "PDV": "2E5-REBAJA PLUS No. 2 IBAGUE HIPODROMO",
+      "Nivel de Servicio": "0.2204553095637844"
+    },
+    {
+      "PDV": "2C8-REBAJA PLUS No. 1 IBAGUE FRENTE A BANCOLOMBIA",
+      "Nivel de Servicio": "0.2205654383417023"
+    },
+    {
+      "PDV": "298-REBAJA No. 1 ACACIAS SAN JOSE",
+      "Nivel de Servicio": "0.2208921048136295"
+    },
+    {
+      "PDV": "2E4-REBAJA No. 3 UBATE CASA DE LA CULTURA",
+      "Nivel de Servicio": "0.2210328924570107"
+    },
+    {
+      "PDV": "343-REBAJA No. 1 MONIQUIRA CENTRO",
+      "Nivel de Servicio": "0.221472603722819"
+    },
+    {
+      "PDV": "5J4-REBAJA PLUS No. 36 CALI MALL LA 66",
+      "Nivel de Servicio": "0.2214985620126073"
+    },
+    {
+      "PDV": "4E3-REBAJA PLUS No. 4 PALMIRA BARRIO TRINIDAD",
+      "Nivel de Servicio": "0.2216450769069335"
+    },
+    {
+      "PDV": "1N1-REBAJA No. 27 CARTAGENA SAN FERNANDO",
+      "Nivel de Servicio": "0.2217935663770945"
+    },
+    {
+      "PDV": "1D9-REBAJA No. 12 MONTERIA LA PRADERA",
+      "Nivel de Servicio": "0.2220874131833281"
+    },
+    {
+      "PDV": "3E3-REBAJA No. 5 ENVIGADO SAN JOSE",
+      "Nivel de Servicio": "0.222129995330943"
+    },
+    {
+      "PDV": "379-REBAJA No. 2 AGUACHICA PARQUE SAN ANTONIO",
+      "Nivel de Servicio": "0.2222913353361684"
+    },
+    {
+      "PDV": "4A9-REBAJA PLUS No. 1 ARMENIA AVENIDA BOLIVAR",
+      "Nivel de Servicio": "0.2223606521901004"
+    },
+    {
+      "PDV": "3I7-REBAJA PLUS No. 14 BUCARAMANGA DIAMANTE II",
+      "Nivel de Servicio": "0.2224101487638883"
+    },
+    {
+      "PDV": "3G4-REBAJA PLUS No. 27 MEDELLIN SAN JAVIER",
+      "Nivel de Servicio": "0.2230631920752818"
+    },
+    {
+      "PDV": "358-REBAJA PLUS No. 1 SOCORRO CENTRO",
+      "Nivel de Servicio": "0.2232953672957387"
+    },
+    {
+      "PDV": "5O6-REBAJA PLUS No. 55 BOGOTA ENGATIVA C. C. TUYO",
+      "Nivel de Servicio": "0.2233700853223569"
+    },
+    {
+      "PDV": "207-REBAJA PLUS No. 76 BOGOTA ESTRADA 1 ZONA BANCARIA",
+      "Nivel de Servicio": "0.2236282363407664"
+    },
+    {
+      "PDV": "1I1-REBAJA PLUS No. 17 CARTAGENA TERMINAL DE TRANSPORTES",
+      "Nivel de Servicio": "0.2236961578303732"
+    },
+    {
+      "PDV": "3F4-REBAJA No. 20 MEDELLIN AGUACATALA",
+      "Nivel de Servicio": "0.2238022981504143"
+    },
+    {
+      "PDV": "473-REBAJA No. 29 CALI NUEVA FLORESTA",
+      "Nivel de Servicio": "0.2239851040241559"
+    },
+    {
+      "PDV": "432-REBAJA PLUS No. 42 CALI PARQUE PANAMERICANO",
+      "Nivel de Servicio": "0.2239958782418862"
+    },
+    {
+      "PDV": "1D2-REBAJA PLUS No. 1 ARJONA LA PLAZA",
+      "Nivel de Servicio": "0.224047515231925"
+    },
+    {
+      "PDV": "2E1-REBAJA PLUS No. 4 NEIVA LAS GRANJAS",
+      "Nivel de Servicio": "0.2241423011939194"
+    },
+    {
+      "PDV": "327-REBAJA PLUS No. 2 FLORIDABLANCA LAGOS I",
+      "Nivel de Servicio": "0.2243336525331376"
+    },
+    {
+      "PDV": "3B4-REBAJA No. 2 MEDELLIN CALASANZ",
+      "Nivel de Servicio": "0.2245991080675572"
+    },
+    {
+      "PDV": "5V5-REBAJA PLUS No. 21 IBAGUE BARLOVENTO - PARRALES",
+      "Nivel de Servicio": "0.2246851709166598"
+    },
+    {
+      "PDV": "5L5-REBAJA PLUS No. 16 BUCARAMANGA TERRAZAS LA FLORESTA",
+      "Nivel de Servicio": "0.2248268337799472"
+    },
+    {
+      "PDV": "3M2-REBAJA PLUS No. 2 ENVIGADO SUR MALL OTRAPARTE",
+      "Nivel de Servicio": "0.2251681413107949"
+    },
+    {
+      "PDV": "375-REBAJA PLUS No. 1 OCANA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2252747888383265"
+    },
+    {
+      "PDV": "317-REBAJA No. 2 CUCUTA EDIFICIO SAN JOSE",
+      "Nivel de Servicio": "0.2254077944993414"
+    },
+    {
+      "PDV": "2R6-REBAJA PLUS No. 83 BOGOTA SANTA ISABEL ASUNCION",
+      "Nivel de Servicio": "0.2264228598216669"
+    },
+    {
+      "PDV": "312-REBAJA PLUS No. 4 FLORIDABLANCA BANCO DE OCCIDENTE",
+      "Nivel de Servicio": "0.2265772406843941"
+    },
+    {
+      "PDV": "186-REBAJA No. 1 SABANALARGA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.226664784729251"
+    },
+    {
+      "PDV": "5R2-REBAJA PLUS No. 31 MEDELLIN SAN GERMAN",
+      "Nivel de Servicio": "0.2267454549099506"
+    },
+    {
+      "PDV": "5A2-REBAJA PLUS No. 50 BOGOTA SAUSALITO",
+      "Nivel de Servicio": "0.2267898307306662"
+    },
+    {
+      "PDV": "345-REBAJA PLUS No. 2 DUITAMA PARQUE LIBERTADORES",
+      "Nivel de Servicio": "0.2270585040281536"
+    },
+    {
+      "PDV": "3L6-REBAJA No. 44 MEDELLIN",
+      "Nivel de Servicio": "0.2271035234060893"
+    },
+    {
+      "PDV": "4P4-REBAJA No. 4 PEREIRA CENTRO",
+      "Nivel de Servicio": "0.2272699324899254"
+    },
+    {
+      "PDV": "231-REBAJA No. 38 BOGOTA 20 DE JULIO 1",
+      "Nivel de Servicio": "0.2274169690978449"
+    },
+    {
+      "PDV": "925-REBAJA No. 1 TAURAMENA CENTRO",
+      "Nivel de Servicio": "0.227445915453713"
+    },
+    {
+      "PDV": "269-REBAJA PLUS No. 22 IBAGUE CLINICA SHARON",
+      "Nivel de Servicio": "0.2274965172053623"
+    },
+    {
+      "PDV": "405-REBAJA PLUS No. 22 CALI CIUDADELA COMFANDI",
+      "Nivel de Servicio": "0.2281522008322088"
+    },
+    {
+      "PDV": "2O5-REBAJA No. 37 BOGOTA VILLAS DE GRANADA",
+      "Nivel de Servicio": "0.2282223273423873"
+    },
+    {
+      "PDV": "121-REBAJA PLUS No. 7 SINCELEJO FRENTE EDIFICIO MADRID",
+      "Nivel de Servicio": "0.2283960548892419"
+    },
+    {
+      "PDV": "261-REBAJA No. 1 MELGAR CENTRO",
+      "Nivel de Servicio": "0.2284336530335103"
+    },
+    {
+      "PDV": "3F5-REBAJA No. 21 MEDELLIN ROBLEDO",
+      "Nivel de Servicio": "0.2285918787777016"
+    },
+    {
+      "PDV": "1G6-REBAJA PLUS No. 1 LA PAZ CENTRO",
+      "Nivel de Servicio": "0.2287128018666439"
+    },
+    {
+      "PDV": "5A1-REBAJA PLUS No. 1 AGUSTIN CODAZZI PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2292188163046641"
+    },
+    {
+      "PDV": "3C8-REBAJA PLUS No. 1 RIONEGRO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2293884873132955"
+    },
+    {
+      "PDV": "306-REBAJA PLUS No. 1 PIE DE CUESTA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2294164754836373"
+    },
+    {
+      "PDV": "3B3-REBAJA PLUS No. 24 MEDELLIN COLOMBIA",
+      "Nivel de Servicio": "0.2294474439461468"
+    },
+    {
+      "PDV": "2O2-REBAJA No. 1 FUSAGASUGA PISCINAS OLIMPICAS",
+      "Nivel de Servicio": "0.2295548617144633"
+    },
+    {
+      "PDV": "5T6-REBAJA PLUS No. 74 BOGOTA C. C. CIPRES PLAZA",
+      "Nivel de Servicio": "0.2296653135145558"
+    },
+    {
+      "PDV": "357-REBAJA PLUS No. 1 PAIPA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2297943747775252"
+    },
+    {
+      "PDV": "3Y3-REBAJA PLUS No. 1 SAN JOSE DEL GUAVIARE",
+      "Nivel de Servicio": "0.2301734134537202"
+    },
+    {
+      "PDV": "5R4-REBAJA PLUS No. 2 FONSECA CENTRO",
+      "Nivel de Servicio": "0.2304451448355846"
+    },
+    {
+      "PDV": "3J9-REBAJA PLUS No. 2 TURBO CENTRO",
+      "Nivel de Servicio": "0.2307104909804673"
+    },
+    {
+      "PDV": "1N9-REBAJA No. 30 CARTAGENA SOCORRO",
+      "Nivel de Servicio": "0.2307929320825597"
+    },
+    {
+      "PDV": "1C4-REBAJA No. 1 MOMPOX SAN FRANCISCO",
+      "Nivel de Servicio": "0.2308516831414414"
+    },
+    {
+      "PDV": "5U7-REBAJA PLUS No. 20 IBAGUE EDIFICIO RESIDENCIAL ROSALES",
+      "Nivel de Servicio": "0.2313125162093518"
+    },
+    {
+      "PDV": "2D3-REBAJA PLUS No. 17 IBAGUE PLAZA DE MERCADO LA 21",
+      "Nivel de Servicio": "0.2313206482532308"
+    },
+    {
+      "PDV": "2R4-REBAJA No. 48 BOGOTA OLAYA",
+      "Nivel de Servicio": "0.231326348898499"
+    },
+    {
+      "PDV": "245-REBAJA No. 3 BOGOTA CASABLANCA 1 BRITALIA",
+      "Nivel de Servicio": "0.231786952295548"
+    },
+    {
+      "PDV": "308-REBAJA PLUS No. 1 BUCARAMANGA PROVENZA",
+      "Nivel de Servicio": "0.2319326042898979"
+    },
+    {
+      "PDV": "1S2-REBAJA PLUS No. 18 CARTAGENA EL CAMPESTRE",
+      "Nivel de Servicio": "0.2324039364317152"
+    },
+    {
+      "PDV": "3H5-REBAJA PLUS No. 8 MEDELLIN POLICLINICA",
+      "Nivel de Servicio": "0.232745188634428"
+    },
+    {
+      "PDV": "5P5-REBAJA PLUS No. 52 CALI C. C. LOS PROFESIONALES",
+      "Nivel de Servicio": "0.2333169037127779"
+    },
+    {
+      "PDV": "1K4-REBAJA No. 17 VALLEDUPAR EL AMPARO",
+      "Nivel de Servicio": "0.2333485888689829"
+    },
+    {
+      "PDV": "3D8-REBAJA PLUS No. 2 SABANETA SAN JOAQUIN",
+      "Nivel de Servicio": "0.2337612668219687"
+    },
+    {
+      "PDV": "5D3-REBAJA PLUS No. 1 SABANETA EDIFICIO 77 TOWERS",
+      "Nivel de Servicio": "0.2337962229243831"
+    },
+    {
+      "PDV": "4A2-REBAJA No. 33 CALI ALFONSO LOPEZ",
+      "Nivel de Servicio": "0.2338425135947608"
+    },
+    {
+      "PDV": "5V7-REBAJA PLUS No. 2 ARBOLETES CENTRO",
+      "Nivel de Servicio": "0.233989481310304"
+    },
+    {
+      "PDV": "1A1-REBAJA PLUS No. 15 BARRANQUILLA ALBORAYA",
+      "Nivel de Servicio": "0.2343006040745288"
+    },
+    {
+      "PDV": "354-REBAJA No. 1 SAN GIL PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2350070050958732"
+    },
+    {
+      "PDV": "2E8-REBAJA PLUS No. 1 FUNZA CENTRO",
+      "Nivel de Servicio": "0.235197688297964"
+    },
+    {
+      "PDV": "931-REBAJA PLUS No. 24 CALI EL INGENIO",
+      "Nivel de Servicio": "0.2354656465529531"
+    },
+    {
+      "PDV": "135-REBAJA No. 3 MONTERIA LA GRANJA",
+      "Nivel de Servicio": "0.2358975628006101"
+    },
+    {
+      "PDV": "296-REBAJA No. 1 NATAGAIMA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2362466939903533"
+    },
+    {
+      "PDV": "5U9-REBAJA PLUS No. 61 CALI EL DORADO",
+      "Nivel de Servicio": "0.2366341799539023"
+    },
+    {
+      "PDV": "3A2-REBAJA PLUS No. 2 SOGAMOSO BANCO DE LA MUJER",
+      "Nivel de Servicio": "0.2369187127264948"
+    },
+    {
+      "PDV": "420-REBAJA PLUS No. 64 CALI LA CASONA",
+      "Nivel de Servicio": "0.237103676730632"
+    },
+    {
+      "PDV": "285-REBAJA PLUS No. 1 LIBANO CENTRO",
+      "Nivel de Servicio": "0.2371668376988824"
+    },
+    {
+      "PDV": "949-REBAJA PLUS No. 19 VALLEDUPAR LA NEVADA",
+      "Nivel de Servicio": "0.2379503305024794"
+    },
+    {
+      "PDV": "2R8-REBAJA PLUS No. 78 BOGOTA SPRINT 1",
+      "Nivel de Servicio": "0.2385181907296987"
+    },
+    {
+      "PDV": "2M8-REBAJA No. 1 LA MESA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2385203259330576"
+    },
+    {
+      "PDV": "5O9-REBAJA PLUS No. 6 MANIZALES PALERMO",
+      "Nivel de Servicio": "0.2386627244388976"
+    },
+    {
+      "PDV": "1O5-REBAJA No. 33 CARTAGENA LAS PALMERAS",
+      "Nivel de Servicio": "0.2386666225509858"
+    },
+    {
+      "PDV": "3H9-REBAJA No. 3 RIONEGRO GUALANDAY",
+      "Nivel de Servicio": "0.2388460357741755"
+    },
+    {
+      "PDV": "5P2-REBAJA PLUS No. 56 CALI PATIOS DE LA FLORA",
+      "Nivel de Servicio": "0.2389409534190307"
+    },
+    {
+      "PDV": "1K3-REBAJA PLUS No. 12 VALLEDUPAR COMANDO DE LA POLICIA",
+      "Nivel de Servicio": "0.2390604115461556"
+    },
+    {
+      "PDV": "324-REBAJA PLUS No. 15 BUCARAMANGA RICAURTE",
+      "Nivel de Servicio": "0.2390750388857698"
+    },
+    {
+      "PDV": "229-REBAJA PLUS No. 24 BOGOTA RESTREPO 1 PRINCIPAL",
+      "Nivel de Servicio": "0.2393957366617721"
+    },
+    {
+      "PDV": "197-REBAJA PLUS No. 1 MONTELIBANO ALCALDIA",
+      "Nivel de Servicio": "0.2394694961965037"
+    },
+    {
+      "PDV": "5C9-REBAJA PLUS No. 43 CARTAGENA HOSPITAL BOCAGRANDE",
+      "Nivel de Servicio": "0.2395640915384493"
+    },
+    {
+      "PDV": "5Q2-REBAJA PLUS No. 49 CALI LA FLORA",
+      "Nivel de Servicio": "0.2398306799248164"
+    },
+    {
+      "PDV": "395-REBAJA No. 14 CUCUTA POLICLINICO",
+      "Nivel de Servicio": "0.2399947746225646"
+    },
+    {
+      "PDV": "371-REBAJA PLUS No. 1 EL BANCO SECTOR BANCARIO",
+      "Nivel de Servicio": "0.2405680590815258"
+    },
+    {
+      "PDV": "4A7-REBAJA PLUS No. 40 CALI CHAMPAGNAT",
+      "Nivel de Servicio": "0.2406324498337951"
+    },
+    {
+      "PDV": "443-REBAJA PLUS No. 1 JAMUNDI PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2408299491446672"
+    },
+    {
+      "PDV": "290-REBAJA No. 8 BOGOTA FONTIBON 2 CRA 99",
+      "Nivel de Servicio": "0.2413648349849223"
+    },
+    {
+      "PDV": "3A3-REBAJA PLUS No. 3 SOGAMOSO ZONA INDUSTRIAL",
+      "Nivel de Servicio": "0.2415826393795799"
+    },
+    {
+      "PDV": "2K9-REBAJA PLUS No. 1 PUERTO BOYACA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2418773981552314"
+    },
+    {
+      "PDV": "278-REBAJA PLUS No. 5 VILLAVICENCIO DIAGONAL AL C. C. MARANDUA",
+      "Nivel de Servicio": "0.2419388376400491"
+    },
+    {
+      "PDV": "4E2-REBAJA PLUS No. 3 PALMIRA BARRIO EL PRADO",
+      "Nivel de Servicio": "0.2424770099836411"
+    },
+    {
+      "PDV": "252-REBAJA PLUS No. 1 YOPAL VILLA BENILDA",
+      "Nivel de Servicio": "0.2425326798825184"
+    },
+    {
+      "PDV": "3K2-REBAJA No. 1 CALDAS PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2425418193045406"
+    },
+    {
+      "PDV": "153-REBAJA PLUS No. 3 SANTA MARTA EL RODADERO",
+      "Nivel de Servicio": "0.2426873241563023"
+    },
+    {
+      "PDV": "5S2-REBAJA PLUS No. 11 NEIVA LAS PALMAS",
+      "Nivel de Servicio": "0.2428905593096571"
+    },
+    {
+      "PDV": "1S1-REBAJA No. 10 SANTA MARTA RODADERO CENTRO",
+      "Nivel de Servicio": "0.2430559839591366"
+    },
+    {
+      "PDV": "279-REBAJA No. 1 HONDA CENTRO",
+      "Nivel de Servicio": "0.2431031594199451"
+    },
+    {
+      "PDV": "1H1-REBAJA PLUS No. 1 BOSCONIA EL CRUCE BOSCONIA",
+      "Nivel de Servicio": "0.2431820096331831"
+    },
+    {
+      "PDV": "3C9-REBAJA PLUS No. 1 YARUMAL PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2432089753161118"
+    },
+    {
+      "PDV": "5U2-REBAJA PLUS No. 75 BOGOTA CHICO NORTE CALLE 100",
+      "Nivel de Servicio": "0.2434118437009263"
+    },
+    {
+      "PDV": "5B8-REBAJA No. 12 BARRANQUILLA CEVILLAR",
+      "Nivel de Servicio": "0.2435274769520491"
+    },
+    {
+      "PDV": "920-REBAJA PLUS No. 1 ANAPOIMA CENTRO COMERCIAL LA TERRAZA",
+      "Nivel de Servicio": "0.243636733091372"
+    },
+    {
+      "PDV": "409-REBAJA No. 9 CALI ROMPOINT ALFONSO LOPEZ",
+      "Nivel de Servicio": "0.243779120606439"
+    },
+    {
+      "PDV": "2Z9-REBAJA PLUS No. 2 MELGAR CENTRO",
+      "Nivel de Servicio": "0.2438886930712841"
+    },
+    {
+      "PDV": "1P3-REBAJA PLUS No. 1 SANTA ANA LOS TUBOS",
+      "Nivel de Servicio": "0.2440630444982525"
+    },
+    {
+      "PDV": "4P2-REBAJA PLUS No. 3 PEREIRA PARQUE LAGO URIBE",
+      "Nivel de Servicio": "0.2440962349819295"
+    },
+    {
+      "PDV": "1H8-REBAJA PLUS No. 13 VALLEDUPAR NOVALITO",
+      "Nivel de Servicio": "0.2441617956155143"
+    },
+    {
+      "PDV": "5N8-REBAJA PLUS No. 2 CARTAGO MALL CASCABELES",
+      "Nivel de Servicio": "0.2443105212325117"
+    },
+    {
+      "PDV": "5T9-REBAJA PLUS No. 2 PLANETA RICA CENTRO",
+      "Nivel de Servicio": "0.244489351882644"
+    },
+    {
+      "PDV": "2W9-REBAJA No. 5 SOACHA CENTRO",
+      "Nivel de Servicio": "0.2446577460233334"
+    },
+    {
+      "PDV": "5T3-REBAJA PLUS No. 32 MEDELLIN AVENIDA SAN JUAN",
+      "Nivel de Servicio": "0.2450584108996484"
+    },
+    {
+      "PDV": "1F6-REBAJA PLUS No. 17 VALLEDUPAR CENTRO",
+      "Nivel de Servicio": "0.2451215716978378"
+    },
+    {
+      "PDV": "1L1-REBAJA No. 5 CERETE EDIFICIO SAN ANTONIO",
+      "Nivel de Servicio": "0.2455482339299021"
+    },
+    {
+      "PDV": "2Q9-REBAJA PLUS No. 85 BOGOTA COLINA CAMPESTRE",
+      "Nivel de Servicio": "0.2456407953821869"
+    },
+    {
+      "PDV": "388-REBAJA PLUS No. 3 BARRANCABERMEJA PROVIVIENDA",
+      "Nivel de Servicio": "0.245802791847657"
+    },
+    {
+      "PDV": "944-REBAJA No. 16 MONTERIA",
+      "Nivel de Servicio": "0.2459175181582303"
+    },
+    {
+      "PDV": "2O3-REBAJA PLUS No. 1 TOCAIMA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2459488806466132"
+    },
+    {
+      "PDV": "5I3-REBAJA PLUS No. 2 FLORENCIA LOS ALPES",
+      "Nivel de Servicio": "0.2461234284685571"
+    },
+    {
+      "PDV": "5N5-REBAJA PLUS No. 45 CALI AVENIDA DEL RIO",
+      "Nivel de Servicio": "0.2466968048833426"
+    },
+    {
+      "PDV": "2D2-REBAJA PLUS No. 16 IBAGUE FRENTE ALMACEN PANTIYEAN",
+      "Nivel de Servicio": "0.246886427412644"
+    },
+    {
+      "PDV": "2S1-REBAJA PLUS No. 10 BOGOTA GALERIAS ESQUINA",
+      "Nivel de Servicio": "0.2469511871507979"
+    },
+    {
+      "PDV": "111-REBAJA PLUS No. 2 SAHAGUN CALLE DEL COMERCIO",
+      "Nivel de Servicio": "0.2471130671610092"
+    },
+    {
+      "PDV": "181-REBAJA PLUS No. 28 BARRANQUILLA CHIQUINQUIRA",
+      "Nivel de Servicio": "0.2474385623635218"
+    },
+    {
+      "PDV": "208-REBAJA PLUS No. 1 CHIA CENTRO",
+      "Nivel de Servicio": "0.2476222813109671"
+    },
+    {
+      "PDV": "3B5-REBAJA PLUS No. 10 MEDELLIN SAN ANTONIO",
+      "Nivel de Servicio": "0.2476573859945363"
+    },
+    {
+      "PDV": "3E6-REBAJA No. 13 MEDELLIN PARQUE BERRIO",
+      "Nivel de Servicio": "0.2476779967811806"
+    },
+    {
+      "PDV": "5P4-REBAJA PLUS No. 53 CALI TORRES DE COMFANDI",
+      "Nivel de Servicio": "0.247696531250215"
+    },
+    {
+      "PDV": "1M5-REBAJA PLUS No. 1 SAHAGUN",
+      "Nivel de Servicio": "0.2478051825122072"
+    },
+    {
+      "PDV": "272-REBAJA PLUS No. 1 ACACIAS CENTRO",
+      "Nivel de Servicio": "0.2478059184941358"
+    },
+    {
+      "PDV": "1H7-REBAJA PLUS No. 14 VALLEDUPAR CANDELARIA SUR",
+      "Nivel de Servicio": "0.2482273227673436"
+    },
+    {
+      "PDV": "5B1-REBAJA PLUS No. 3 FLORIDABLANCA HIC HOTEL VENTURA",
+      "Nivel de Servicio": "0.2482645279499399"
+    },
+    {
+      "PDV": "2A8-REBAJA PLUS No. 9 NEIVA ANTIGUO SEGURO SOCIAL",
+      "Nivel de Servicio": "0.248305011666658"
+    },
+    {
+      "PDV": "5X9-REBAJA PLUS No. 42 CARTAGENA SERENA DEL MAR",
+      "Nivel de Servicio": "0.2485005796695455"
+    },
+    {
+      "PDV": "3K1-REBAJA No. 1 TURBO CENTRO",
+      "Nivel de Servicio": "0.2485039111149172"
+    },
+    {
+      "PDV": "467-REBAJA PLUS No. 1 IPIALES CONTIGUO AL BANCO AGRARIO",
+      "Nivel de Servicio": "0.2486696810925807"
+    },
+    {
+      "PDV": "283-REBAJA No. 1 MARIQUITA CENTRO",
+      "Nivel de Servicio": "0.2486888127848724"
+    },
+    {
+      "PDV": "465-REBAJA PLUS No. 20 CALI VILLA COLOMBIA",
+      "Nivel de Servicio": "0.2490084012861874"
+    },
+    {
+      "PDV": "198-REBAJA PLUS No. 2 SANTA MARTA HOSPITAL",
+      "Nivel de Servicio": "0.2494253210177405"
+    },
+    {
+      "PDV": "3K9-REBAJA PLUS No. 1 TURBO CENTRO",
+      "Nivel de Servicio": "0.2495418460076056"
+    },
+    {
+      "PDV": "1G2-REBAJA PLUS No. 3 VALLEDUPAR GUATAPURI",
+      "Nivel de Servicio": "0.2498002233009939"
+    },
+    {
+      "PDV": "2V1-REBAJA PLUS No. 25 BOGOTA MODELIA 3",
+      "Nivel de Servicio": "0.2499500375926184"
+    },
+    {
+      "PDV": "294-REBAJA PLUS No. 1 LA PLATA CENTRO",
+      "Nivel de Servicio": "0.2502431923070916"
+    },
+    {
+      "PDV": "455-REBAJA PLUS No. 4 CARTAGO PARQUE DE BOLIVAR",
+      "Nivel de Servicio": "0.2503175958184674"
+    },
+    {
+      "PDV": "5L8-REBAJA PLUS No. 8 PEREIRA PINARES",
+      "Nivel de Servicio": "0.2509152606243717"
+    },
+    {
+      "PDV": "1A6-REBAJA PLUS No. 4 SANTA MARTA BAVARIA",
+      "Nivel de Servicio": "0.2512778909092518"
+    },
+    {
+      "PDV": "280-REBAJA No. 76 BOGOTA GALERIAS 2 CALLE 53",
+      "Nivel de Servicio": "0.2515294284862549"
+    },
+    {
+      "PDV": "436-REBAJA No. 1 JAMUNDI PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2519889302949063"
+    },
+    {
+      "PDV": "3I9-REBAJA No. 17 CUCUTA LA LIBERTAD",
+      "Nivel de Servicio": "0.252003394209346"
+    },
+    {
+      "PDV": "896-REBAJA PLUS No. 48 CALI PRADOS DEL LIMONAR",
+      "Nivel de Servicio": "0.2521329211208691"
+    },
+    {
+      "PDV": "5M3-REBAJA PLUS No. 3 VILLAVICENCIO BARRIO BALATA",
+      "Nivel de Servicio": "0.2521848668371081"
+    },
+    {
+      "PDV": "415-REBAJA PLUS No. 14 CALI CAMBULOS",
+      "Nivel de Servicio": "0.25219715219569"
+    },
+    {
+      "PDV": "1N2-REBAJA PLUS No. 29 CARTAGENA RICAURTE",
+      "Nivel de Servicio": "0.2522823755623017"
+    },
+    {
+      "PDV": "5X1-REBAJA PLUS No. 1 RESTREPO",
+      "Nivel de Servicio": "0.2523140520747989"
+    },
+    {
+      "PDV": "1N8-REBAJA PLUS No. 1 COROZAL ANTIGUO MERCADO",
+      "Nivel de Servicio": "0.2527325692570397"
+    },
+    {
+      "PDV": "3F1-REBAJA No. 17 MEDELLIN LA CASTELLANA",
+      "Nivel de Servicio": "0.2528000888970826"
+    },
+    {
+      "PDV": "2K6-REBAJA PLUS No. 41 BOGOTA QUINTA PAREDES",
+      "Nivel de Servicio": "0.2530719695664143"
+    },
+    {
+      "PDV": "230-REBAJA PLUS No. 51 BOGOTA RESTREPO 2 AVENIDA 1 DE MAYO",
+      "Nivel de Servicio": "0.2531057432100075"
+    },
+    {
+      "PDV": "940-REBAJA No. 1 BAYUNCA",
+      "Nivel de Servicio": "0.2532377332338059"
+    },
+    {
+      "PDV": "941-REBAJA PLUS No. 6 VALLEDUPAR VILLA LIGIA",
+      "Nivel de Servicio": "0.2532824423373838"
+    },
+    {
+      "PDV": "480-REBAJA PLUS No. 5 POPAYAN LA ESMERALDA",
+      "Nivel de Servicio": "0.253341042456886"
+    },
+    {
+      "PDV": "5G5-REBAJA PLUS No. 1 SOACHA CIUDAD VERDE",
+      "Nivel de Servicio": "0.2536338716247201"
+    },
+    {
+      "PDV": "1K6-REBAJA No. 26 CARTAGENA EL CARMELO",
+      "Nivel de Servicio": "0.253638515829844"
+    },
+    {
+      "PDV": "5B5-REBAJA No. 12 VALLEDUPAR MAYALES",
+      "Nivel de Servicio": "0.2537085799317247"
+    },
+    {
+      "PDV": "140-REBAJA PLUS No. 1 PLATO EL CARMEN",
+      "Nivel de Servicio": "0.2537524371851522"
+    },
+    {
+      "PDV": "2K1-REBAJA PLUS No. 43 BOGOTA CALLE 80",
+      "Nivel de Servicio": "0.2544291501438293"
+    },
+    {
+      "PDV": "3J8-REBAJA No. 1 TAME CALLE 14 REAL",
+      "Nivel de Servicio": "0.2544485255528288"
+    },
+    {
+      "PDV": "5V1-REBAJA PLUS No. 23 IBAGUE SANTA RITA",
+      "Nivel de Servicio": "0.2548841567992627"
+    },
+    {
+      "PDV": "132-REBAJA No. 1 MAGANGUE BANCOLOMBIA",
+      "Nivel de Servicio": "0.2549248624485497"
+    },
+    {
+      "PDV": "496-REBAJA No. 16 CALI CIUDAD CORDOBA",
+      "Nivel de Servicio": "0.2553923158477202"
+    },
+    {
+      "PDV": "5H2-REBAJA PLUS No. 30 CALI GRANADA CENTER",
+      "Nivel de Servicio": "0.2559485781986068"
+    },
+    {
+      "PDV": "190-REBAJA PLUS No. 1 RIOHACHA HOSPITAL",
+      "Nivel de Servicio": "0.2560248341212812"
+    },
+    {
+      "PDV": "1E5-REBAJA PLUS No. 1 SINCELEJO PLAZA DE MAJAGUAL",
+      "Nivel de Servicio": "0.2562187280127746"
+    },
+    {
+      "PDV": "1M4-REBAJA No. 6 CERETE CALLE DEL COMERCIO",
+      "Nivel de Servicio": "0.2564600290844635"
+    },
+    {
+      "PDV": "2R5-REBAJA PLUS No. 3 FUSAGASUGA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2565993705527732"
+    },
+    {
+      "PDV": "5F2-REBAJA PLUS No. 29 BOGOTA TINTAL",
+      "Nivel de Servicio": "0.2567684561240766"
+    },
+    {
+      "PDV": "4A8-REBAJA PLUS No. 1 PALMIRA BARRIO LAS MERCEDES",
+      "Nivel de Servicio": "0.2570417859016633"
+    },
+    {
+      "PDV": "1M3-REBAJA PLUS No. 1 SAN MARCOS CENTRO",
+      "Nivel de Servicio": "0.2572043883583545"
+    },
+    {
+      "PDV": "5F9-REBAJA PLUS No. 2 JAMUNDI ALFAGUARA",
+      "Nivel de Servicio": "0.2572169103694993"
+    },
+    {
+      "PDV": "113-REBAJA PLUS No. 13 MONTERIA SAN ANDRESITO",
+      "Nivel de Servicio": "0.2573734640615213"
+    },
+    {
+      "PDV": "148-REBAJA PLUS No. 3 PLANETA RICA CALLE DEL COMERCIO",
+      "Nivel de Servicio": "0.2573788982352454"
+    },
+    {
+      "PDV": "5I9-REBAJA PLUS No. 19 MEDELLIN SANTA LUCIA",
+      "Nivel de Servicio": "0.2574316982163937"
+    },
+    {
+      "PDV": "2D8-REBAJA PLUS No. 3 NEIVA ALTO LLANO",
+      "Nivel de Servicio": "0.2574792154295556"
+    },
+    {
+      "PDV": "1G7-REBAJA PLUS No. 3 AGUSTIN CODAZZI CENTRO ANTIGUO TELECOM",
+      "Nivel de Servicio": "0.2577642181788424"
+    },
+    {
+      "PDV": "446-REBAJA PLUS No. 2 PALMIRA BARRIO SAN PEDRO Y BIZERTA",
+      "Nivel de Servicio": "0.2581480816768705"
+    },
+    {
+      "PDV": "439-REBAJA No. 2 IPIALES GALERIA",
+      "Nivel de Servicio": "0.2584933455185666"
+    },
+    {
+      "PDV": "2F2-REBAJA PLUS No. 56 BOGOTA GALERIAS ESQUINA",
+      "Nivel de Servicio": "0.2585255839518296"
+    },
+    {
+      "PDV": "109-REBAJA No. 1 CARTAGENA LA MATUNA",
+      "Nivel de Servicio": "0.2585836728227759"
+    },
+    {
+      "PDV": "5Q7-REBAJA PLUS No. 10 MONTERIA EL RECREO",
+      "Nivel de Servicio": "0.2588662472025182"
+    },
+    {
+      "PDV": "1O7-REBAJA No. 1 SAMPUES CENTRO",
+      "Nivel de Servicio": "0.2588759413304297"
+    },
+    {
+      "PDV": "5V4-REBAJA PLUS No. 35 MEDELLIN C. C. GRAN VIA",
+      "Nivel de Servicio": "0.2589785596441741"
+    },
+    {
+      "PDV": "5R6-REBAJA PLUS No. 2 YUMBO VIA CALI",
+      "Nivel de Servicio": "0.2597408946402509"
+    },
+    {
+      "PDV": "3D4-REBAJA No. 16 CUCUTA QUINTA ORIENTAL",
+      "Nivel de Servicio": "0.2601295465619257"
+    },
+    {
+      "PDV": "407-REBAJA PLUS No. 43 CALI TORRES DE MARACAIBO",
+      "Nivel de Servicio": "0.2603895533987019"
+    },
+    {
+      "PDV": "188-REBAJA PLUS No. 6 MONTERIA EL EDEN",
+      "Nivel de Servicio": "0.2606187198560446"
+    },
+    {
+      "PDV": "1I9-REBAJA PLUS No. 1 SABANALARGA CENTRO",
+      "Nivel de Servicio": "0.2606746372130291"
+    },
+    {
+      "PDV": "1F9-REBAJA PLUS No. 8 VALLEDUPAR GALERIA",
+      "Nivel de Servicio": "0.2610266468117731"
+    },
+    {
+      "PDV": "3A9-REBAJA PLUS No. 1 GIRARDOTA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2611789826064172"
+    },
+    {
+      "PDV": "5F5-REBAJA PLUS No. 26 CALI MALL CANAVERALEJO",
+      "Nivel de Servicio": "0.2611970181342929"
+    },
+    {
+      "PDV": "5V6-REBAJA PLUS No. 5 RIONEGRO VIA AEROPUERTO",
+      "Nivel de Servicio": "0.2616676072180302"
+    },
+    {
+      "PDV": "3H6-REBAJA No. 40 MEDELLIN SANTA GEMA",
+      "Nivel de Servicio": "0.2620910402400166"
+    },
+    {
+      "PDV": "414-REBAJA PLUS No. 65 CALI GALERIA LA FLORESTA",
+      "Nivel de Servicio": "0.2622265922892947"
+    },
+    {
+      "PDV": "5R9-REBAJA PLUS No. 4 VILLAVICENCIO NUEVO MAIZARO",
+      "Nivel de Servicio": "0.2622572139330288"
+    },
+    {
+      "PDV": "948-REBAJA PLUS No. 4 GIRARDOT SANTANDER",
+      "Nivel de Servicio": "0.2622870510763843"
+    },
+    {
+      "PDV": "3L5-REBAJA PLUS No. 1 LA ESTRELLA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.2632154513866565"
+    },
+    {
+      "PDV": "169-REBAJA PLUS No. 5 SANTA MARTA SAN FRANCISCO",
+      "Nivel de Servicio": "0.263444750017732"
+    },
+    {
+      "PDV": "428-REBAJA PLUS No. 37 CALI PANAMERICANO",
+      "Nivel de Servicio": "0.2635435894566124"
+    },
+    {
+      "PDV": "2V5-REBAJA No. 95 BOGOTA TEQUENDAMA 1",
+      "Nivel de Servicio": "0.2637640061433791"
+    },
+    {
+      "PDV": "2O8-REBAJA No. 3 SOACHA LAS VILLAS",
+      "Nivel de Servicio": "0.2638118333831126"
+    },
+    {
+      "PDV": "2B9-REBAJA No. 2 FLORENCIA GOBERNACION",
+      "Nivel de Servicio": "0.2638233500644649"
+    },
+    {
+      "PDV": "1F5-REBAJA No. 6 MONTERIA SEIS DE MARZO",
+      "Nivel de Servicio": "0.2640701671016187"
+    },
+    {
+      "PDV": "5H7-REBAJA PLUS No. 32 CALI EDS. TERPEL LA RIVERA",
+      "Nivel de Servicio": "0.2642236173556431"
+    },
+    {
+      "PDV": "921-REBAJA PLUS No. 13 IBAGUE CENTRO COMERCIAL COPICLUB",
+      "Nivel de Servicio": "0.2644262799537814"
+    },
+    {
+      "PDV": "5S9-REBAJA PLUS No. 55 CALI CARRERA 70 CAPRI",
+      "Nivel de Servicio": "0.264733719127889"
+    },
+    {
+      "PDV": "1E9-REBAJA PLUS No. 9 SANTA MARTA GAIRA",
+      "Nivel de Servicio": "0.2650704252548364"
+    },
+    {
+      "PDV": "3D3-REBAJA PLUS No. 1 BARBOSA CENTRO",
+      "Nivel de Servicio": "0.2653072829591367"
+    },
+    {
+      "PDV": "1C5-REBAJA PLUS No. 2 LORICA SAN PEDRO",
+      "Nivel de Servicio": "0.2653266456252844"
+    },
+    {
+      "PDV": "1I3-REBAJA PLUS No. 30 CARTAGENA EL POZON",
+      "Nivel de Servicio": "0.2654128679157048"
+    },
+    {
+      "PDV": "987-REBAJA No. 15 NEIVA AVENIDA MAX DUQUE",
+      "Nivel de Servicio": "0.2657479787027721"
+    },
+    {
+      "PDV": "212-REBAJA No. 3 LETICIA CENTRO",
+      "Nivel de Servicio": "0.265815335928289"
+    },
+    {
+      "PDV": "2L6-REBAJA PLUS No. 1 FUSAGASUGA QUINTAS DEL BALMORAL",
+      "Nivel de Servicio": "0.2659343156021584"
+    },
+    {
+      "PDV": "2X6-REBAJA No. 112 BOGOTA NIZA 2",
+      "Nivel de Servicio": "0.2659605222490573"
+    },
+    {
+      "PDV": "2Y4-REBAJA No. 118 BOGOTA CAN 2",
+      "Nivel de Servicio": "0.266098148526113"
+    },
+    {
+      "PDV": "5C6-REBAJA PLUS No. 2 GIRARDOT C. C. EL PLAZA",
+      "Nivel de Servicio": "0.26611061856726"
+    },
+    {
+      "PDV": "2G1-REBAJA PLUS No. 1 ESPINAL PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2671852943564867"
+    },
+    {
+      "PDV": "3B9-REBAJA PLUS No. 15 MEDELLIN ESQUINA PLAYA CON SUCRE",
+      "Nivel de Servicio": "0.2672081351819222"
+    },
+    {
+      "PDV": "1G4-REBAJA PLUS No. 9 VALLEDUPAR SAN JOAQUIN",
+      "Nivel de Servicio": "0.2673148454666994"
+    },
+    {
+      "PDV": "2P5-REBAJA No. 2 CAJICA CENTRO",
+      "Nivel de Servicio": "0.2673737345244322"
+    },
+    {
+      "PDV": "392-REBAJA No. 11 CUCUTA PRADOS DEL NORTE",
+      "Nivel de Servicio": "0.2677467836846051"
+    },
+    {
+      "PDV": "5I8-REBAJA PLUS No. 17 MEDELLIN MALL PLATINUM SUPERIOR",
+      "Nivel de Servicio": "0.2683164376362275"
+    },
+    {
+      "PDV": "1F4-REBAJA PLUS No. 3 CERETE CALLE DEL CARMEN",
+      "Nivel de Servicio": "0.268446265544001"
+    },
+    {
+      "PDV": "2C5-REBAJA No. 2 GIRARDOT CENTRO",
+      "Nivel de Servicio": "0.2684689264993999"
+    },
+    {
+      "PDV": "3B1-REBAJA PLUS No. 1 ITAGUI PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2685272465131652"
+    },
+    {
+      "PDV": "5B7-REBAJA No. 29 BOGOTA LA FELICIDAD",
+      "Nivel de Servicio": "0.2687661033633675"
+    },
+    {
+      "PDV": "5H8-REBAJA PLUS No. 33 CALI EDS. TERPEL DESEPAZ",
+      "Nivel de Servicio": "0.2688562722549767"
+    },
+    {
+      "PDV": "5G4-REBAJA PLUS No. 34 BOGOTA HOSPITAL SUBA",
+      "Nivel de Servicio": "0.2693173916914813"
+    },
+    {
+      "PDV": "193-REBAJA PLUS No. 14 BARRANQUILLA LAS MORAS (SOLEDAD)",
+      "Nivel de Servicio": "0.269745240125406"
+    },
+    {
+      "PDV": "5P1-REBAJA PLUS No. 50 CALI PORTADA AL MAR",
+      "Nivel de Servicio": "0.2699616070211297"
+    },
+    {
+      "PDV": "406-REBAJA PLUS No. 59 CALI MARIANO RAMOS",
+      "Nivel de Servicio": "0.2700275401437701"
+    },
+    {
+      "PDV": "1L7-REBAJA PLUS No. 8 SINCELEJO FRANCISCO H PORRAS",
+      "Nivel de Servicio": "0.270088650625523"
+    },
+    {
+      "PDV": "215-REBAJA No. 16 IBAGUE CLINICA REMANSOS",
+      "Nivel de Servicio": "0.2702903521528898"
+    },
+    {
+      "PDV": "192-REBAJA No. 18 CARTAGENA PARQUE LOS BORRACHOS",
+      "Nivel de Servicio": "0.2716020754022773"
+    },
+    {
+      "PDV": "5L6-REBAJA PLUS No. 8 MONTERIA MONTEVERDE",
+      "Nivel de Servicio": "0.2716093587726225"
+    },
+    {
+      "PDV": "5V9-REBAJA PLUS No. 66 CALI VILLA DEL SUR",
+      "Nivel de Servicio": "0.2717899130689231"
+    },
+    {
+      "PDV": "2D5-REBAJA No. 1 GRANADA CENTRO",
+      "Nivel de Servicio": "0.2718689953585261"
+    },
+    {
+      "PDV": "240-REBAJA PLUS No. 2 VILLANUEVA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2719368457905004"
+    },
+    {
+      "PDV": "401-REBAJA No. 1 CALI CARRERA 9",
+      "Nivel de Servicio": "0.2719898807830518"
+    },
+    {
+      "PDV": "117-REBAJA No. 3 CARTAGENA BAZURTO",
+      "Nivel de Servicio": "0.2720281668649052"
+    },
+    {
+      "PDV": "4D2-REBAJA PLUS No. 1 DOSQUEBRADAS LA PRADERA",
+      "Nivel de Servicio": "0.2724673900246818"
+    },
+    {
+      "PDV": "464-REBAJA PLUS No. 1 TULUA BARRIO ALVERNIA",
+      "Nivel de Servicio": "0.2727436918494837"
+    },
+    {
+      "PDV": "492-REBAJA No. 8 PASTO IGLESIA LA MERCED",
+      "Nivel de Servicio": "0.2727547953081677"
+    },
+    {
+      "PDV": "5K7-REBAJA PLUS No. 26 CARTAGENA VILLA ROSITA",
+      "Nivel de Servicio": "0.2729188249373499"
+    },
+    {
+      "PDV": "481-REBAJA No. 6 POPAYAN CENTRO HISTORICO",
+      "Nivel de Servicio": "0.2733195505483362"
+    },
+    {
+      "PDV": "1E1-REBAJA PLUS No. 2 SINCELEJO FRENTE A LA GOBERNACION",
+      "Nivel de Servicio": "0.2733609370458213"
+    },
+    {
+      "PDV": "1M6-REBAJA PLUS No. 1 AYAPEL",
+      "Nivel de Servicio": "0.2733761442856514"
+    },
+    {
+      "PDV": "2Q5-REBAJA No. 31 BOGOTA SAN FERNANDO",
+      "Nivel de Servicio": "0.273698469269991"
+    },
+    {
+      "PDV": "2D4-REBAJA PLUS No. 15 IBAGUE PLAZA DE LA 14",
+      "Nivel de Servicio": "0.2737206259828777"
+    },
+    {
+      "PDV": "5K9-REBAJA PLUS No. 38 CALI EL RODEO",
+      "Nivel de Servicio": "0.2742322648045643"
+    },
+    {
+      "PDV": "114-REBAJA No. 2 MONTERIA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2742673285460031"
+    },
+    {
+      "PDV": "935-REBAJA PLUS No. 14 IBAGUE RICAURTE",
+      "Nivel de Servicio": "0.2744043776966349"
+    },
+    {
+      "PDV": "3I8-REBAJA PLUS No. 1 APARTADO FUNDADORES",
+      "Nivel de Servicio": "0.2744078537143982"
+    },
+    {
+      "PDV": "250-REBAJA No. 2 FUSAGASUGA CENTRO",
+      "Nivel de Servicio": "0.2747749721364199"
+    },
+    {
+      "PDV": "275-REBAJA PLUS No. 1 GRANADA CENTRO",
+      "Nivel de Servicio": "0.2747781968807109"
+    },
+    {
+      "PDV": "4B1-REBAJA PLUS No. 4 BUGA SANTA BARBARA",
+      "Nivel de Servicio": "0.2751322725011047"
+    },
+    {
+      "PDV": "5K5-REBAJA PLUS No. 34 CALI EDS. TERPEL LAS DELICIAS",
+      "Nivel de Servicio": "0.2755350255483073"
+    },
+    {
+      "PDV": "281-REBAJA PLUS No. 72 BOGOTA CALLE 116 CLINICA SHAIO",
+      "Nivel de Servicio": "0.2757691315243492"
+    },
+    {
+      "PDV": "456-REBAJA No. 1 TULUA GALERIA",
+      "Nivel de Servicio": "0.2757838847027617"
+    },
+    {
+      "PDV": "2P3-REBAJA PLUS No. 2 FACATATIVA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2758671298474653"
+    },
+    {
+      "PDV": "4C8-REBAJA No. 1 VILLAMARIA CENTRO",
+      "Nivel de Servicio": "0.275937733722131"
+    },
+    {
+      "PDV": "491-REBAJA PLUS No. 2 PASTO EL DORADO",
+      "Nivel de Servicio": "0.2765288220282429"
+    },
+    {
+      "PDV": "370-REBAJA PLUS No. 2 EL BANCO PLAZA ALMOTACEM",
+      "Nivel de Servicio": "0.2768111290187326"
+    },
+    {
+      "PDV": "1B4-REBAJA PLUS No. 35 BARRANQUILLA LA UNION",
+      "Nivel de Servicio": "0.2769666998101408"
+    },
+    {
+      "PDV": "4C4-REBAJA PLUS No. 1 MANIZALES EL TRIANGULO",
+      "Nivel de Servicio": "0.277036300245985"
+    },
+    {
+      "PDV": "2V7-REBAJA PLUS No. 27 BOGOTA 7 DE AGOSTO",
+      "Nivel de Servicio": "0.2771664563539278"
+    },
+    {
+      "PDV": "1B9-REBAJA PLUS No. 30 BARRANQUILLA EL PRADO",
+      "Nivel de Servicio": "0.277331873572953"
+    },
+    {
+      "PDV": "5K4-REBAJA PLUS No. 2 POPAYAN BARRIO BOLIVAR",
+      "Nivel de Servicio": "0.2774923719665551"
+    },
+    {
+      "PDV": "2Z5-REBAJA No. 127 BOGOTA USAQUEN 2",
+      "Nivel de Servicio": "0.2775257062027083"
+    },
+    {
+      "PDV": "412-REBAJA PLUS No. 44 CALI CALLE OCTAVA",
+      "Nivel de Servicio": "0.2775473952083906"
+    },
+    {
+      "PDV": "2N4-REBAJA PLUS No. 1 MADRID",
+      "Nivel de Servicio": "0.2775605334755982"
+    },
+    {
+      "PDV": "2B2-REBAJA No. 1 CUMARAL CENTRO",
+      "Nivel de Servicio": "0.2784466822415224"
+    },
+    {
+      "PDV": "2K5-REBAJA PLUS No. 5 YOPAL HOSPITAL",
+      "Nivel de Servicio": "0.2785414010109827"
+    },
+    {
+      "PDV": "5W6-REBAJA PLUS No. 4 TUNJA LAS QUINTAS",
+      "Nivel de Servicio": "0.2786176937447551"
+    },
+    {
+      "PDV": "2W5-REBAJA PLUS No. 47 BOGOTA CASTELLANA 1",
+      "Nivel de Servicio": "0.2794237098294816"
+    },
+    {
+      "PDV": "337-REBAJA No. 3 TUNJA PLAZA DE BOLIVAR",
+      "Nivel de Servicio": "0.279527014782503"
+    },
+    {
+      "PDV": "5B2-REBAJA No. 19 BARRANQUILLA LAS TORRES (SOLEDAD)",
+      "Nivel de Servicio": "0.2798249802165703"
+    },
+    {
+      "PDV": "3W7-REBAJA PLUS No. 84 BOGOTA CENTRO COMERCIAL SAN PEDRO",
+      "Nivel de Servicio": "0.2798688997151084"
+    },
+    {
+      "PDV": "2J8-REBAJA PLUS No. 10 NEIVA ALCALDIA",
+      "Nivel de Servicio": "0.2799509271776645"
+    },
+    {
+      "PDV": "1D6-REBAJA No. 1 TIERRALTA CENTRO",
+      "Nivel de Servicio": "0.2800694582482321"
+    },
+    {
+      "PDV": "221-REBAJA No. 132 BOGOTA CAOBOS",
+      "Nivel de Servicio": "0.2806498206948272"
+    },
+    {
+      "PDV": "174-REBAJA No. 7 MONTERIA RIO DE JANEIRO",
+      "Nivel de Servicio": "0.2809003602339871"
+    },
+    {
+      "PDV": "204-REBAJA No. 33 BOGOTA SUBA RINCON 1",
+      "Nivel de Servicio": "0.2812293635380395"
+    },
+    {
+      "PDV": "2P6-REBAJA No. 1 CHOCONTA CENTRO",
+      "Nivel de Servicio": "0.2812722895957261"
+    },
+    {
+      "PDV": "1D4-REBAJA No. 11 MONTERIA LA COQUERA",
+      "Nivel de Servicio": "0.2825700030413728"
+    },
+    {
+      "PDV": "2C2-REBAJA PLUS No. 1 CHAPARRAL PARQUE CENTRAL",
+      "Nivel de Servicio": "0.2825943992373229"
+    },
+    {
+      "PDV": "5Q6-REBAJA PLUS No. 4 POPAYAN RINCON DEL BOSQUE",
+      "Nivel de Servicio": "0.2828836423832853"
+    },
+    {
+      "PDV": "4S4-REBAJA No. 13 CALI HOSPITAL DEPARTAMENTAL",
+      "Nivel de Servicio": "0.2830354621512704"
+    },
+    {
+      "PDV": "5M4-REBAJA PLUS No. 5 FLORIDABLANCA CENTRO",
+      "Nivel de Servicio": "0.2837816567770401"
+    },
+    {
+      "PDV": "5I7-REBAJA PLUS No. 5 NEIVA ALAMOS NORTE",
+      "Nivel de Servicio": "0.2838731893078383"
+    },
+    {
+      "PDV": "484-REBAJA PLUS No. 1 POPAYAN CENTRO COMERCIAL CAMPANARIO",
+      "Nivel de Servicio": "0.2839818315066603"
+    },
+    {
+      "PDV": "410-REBAJA PLUS No. 16 CALI LOS ANDES",
+      "Nivel de Servicio": "0.2846625769528105"
+    },
+    {
+      "PDV": "1P9-REBAJA No. 3 SOLEDAD CIUDADELA METROPOLITANA",
+      "Nivel de Servicio": "0.2850671299102159"
+    },
+    {
+      "PDV": "5Q8-REBAJA PLUS No. 60 CALI CHIPICHAPE VERSALLES",
+      "Nivel de Servicio": "0.2851129441412111"
+    },
+    {
+      "PDV": "942-REBAJA PLUS No. 9 BARRANCABERMEJA LA FLORESTA",
+      "Nivel de Servicio": "0.2851373041350681"
+    },
+    {
+      "PDV": "276-REBAJA No. 1 AGUAZUL HOSPITAL",
+      "Nivel de Servicio": "0.2852247977326099"
+    },
+    {
+      "PDV": "3I4-REBAJA PLUS No. 4 RIONEGRO CENTRO",
+      "Nivel de Servicio": "0.2852286099729672"
+    },
+    {
+      "PDV": "5X4-REBAJA PLUS No. 67 CALI C. C. BOCHALEMA PLAZA",
+      "Nivel de Servicio": "0.2852699246181054"
+    },
+    {
+      "PDV": "1I7-REBAJA No. 3 CAUCASIA LA TRONCAL",
+      "Nivel de Servicio": "0.2853240166428909"
+    },
+    {
+      "PDV": "2B4-REBAJA No. 2 PITALITO CENTRO",
+      "Nivel de Servicio": "0.2854807002861631"
+    },
+    {
+      "PDV": "416-REBAJA PLUS No. 5 CALI IMBANACO",
+      "Nivel de Servicio": "0.2856693411002467"
+    },
+    {
+      "PDV": "2M4-REBAJA No. 2 ZIPAQUIRA ALGARRA I",
+      "Nivel de Servicio": "0.2856990702987784"
+    },
+    {
+      "PDV": "402-REBAJA PLUS No. 62 CALI FLORALIA",
+      "Nivel de Servicio": "0.2857880672804062"
+    },
+    {
+      "PDV": "2X8-REBAJA No. 107 BOGOTA CAN 1",
+      "Nivel de Servicio": "0.2858719733415881"
+    },
+    {
+      "PDV": "360-REBAJA PLUS No. 1 PUERTO WILCHES CENTRO",
+      "Nivel de Servicio": "0.2861265376814994"
+    },
+    {
+      "PDV": "141-REBAJA PLUS No. 2 PLATO LOS GUAYACANES",
+      "Nivel de Servicio": "0.2862471513198305"
+    },
+    {
+      "PDV": "105-REBAJA PLUS No. 23 BARRANQUILLA CENTRO ALMACEN SINGER",
+      "Nivel de Servicio": "0.2871689175604036"
+    },
+    {
+      "PDV": "934-REBAJA No. 41 MEDELLIN BUENOS AIRES",
+      "Nivel de Servicio": "0.287451612110398"
+    },
+    {
+      "PDV": "233-REBAJA PLUS No. 2 LA DORADA C.C. DORADA PLAZA",
+      "Nivel de Servicio": "0.2877351563044477"
+    },
+    {
+      "PDV": "483-REBAJA PLUS No. 3 POPAYAN AVENIDA PANAMERICANA NORTE",
+      "Nivel de Servicio": "0.2881191464007476"
+    },
+    {
+      "PDV": "5W7-REBAJA PLUS No. 3 BELLO CENTRO EMPRESARIAL NIQUIA",
+      "Nivel de Servicio": "0.2889885353266016"
+    },
+    {
+      "PDV": "1C6-REBAJA PLUS No. 3 SAHAGUN AVENIDA DEL HOSPITAL",
+      "Nivel de Servicio": "0.2892770297391458"
+    },
+    {
+      "PDV": "3W1-REBAJA No. 1 SAN MARTIN CENTRO",
+      "Nivel de Servicio": "0.2893203221938976"
+    },
+    {
+      "PDV": "2L8-REBAJA PLUS No. 8 VILLAVICENCIO LA ESPERANZA",
+      "Nivel de Servicio": "0.28940960328302"
+    },
+    {
+      "PDV": "2M7-REBAJA No. 1 CAJICA CENTRO",
+      "Nivel de Servicio": "0.2895087305635072"
+    },
+    {
+      "PDV": "5X3-REBAJA PLUS No. 9 SINCELEJO LOS ALPES",
+      "Nivel de Servicio": "0.2897409836633514"
+    },
+    {
+      "PDV": "2C1-REBAJA No. 3 FLORENCIA BANCO POPULAR",
+      "Nivel de Servicio": "0.2899847388564817"
+    },
+    {
+      "PDV": "494-REBAJA PLUS No. 1 PASTO AVENIDA LOS ESTUDIANTES",
+      "Nivel de Servicio": "0.2906967930955459"
+    },
+    {
+      "PDV": "2Y7-REBAJA No. 121 BOGOTA TEUSAQUILLO 1 CALLE 34",
+      "Nivel de Servicio": "0.2909479941101655"
+    },
+    {
+      "PDV": "347-REBAJA PLUS No. 7 BARRANCABERMEJA COMERCIO",
+      "Nivel de Servicio": "0.2912756509065214"
+    },
+    {
+      "PDV": "282-REBAJA No. 1 LA DORADA CATEDRAL",
+      "Nivel de Servicio": "0.2917238151250824"
+    },
+    {
+      "PDV": "164-REBAJA PLUS No. 22 BARRANQUILLA SIMON BOLIVAR",
+      "Nivel de Servicio": "0.2918849902717516"
+    },
+    {
+      "PDV": "3D7-REBAJA No. 2 PAMPLONA CALLE REAL",
+      "Nivel de Servicio": "0.2927045739715422"
+    },
+    {
+      "PDV": "1G5-REBAJA PLUS No. 10 VALLEDUPAR GARUPAL",
+      "Nivel de Servicio": "0.2929317523670379"
+    },
+    {
+      "PDV": "1P5-REBAJA No. 8 CARTAGENA CLINICA DE MATERNIDAD RAFAEL CALVO",
+      "Nivel de Servicio": "0.2933523378616527"
+    },
+    {
+      "PDV": "4K1-REBAJA PLUS No. 57 CALI BARRIO POPULAR",
+      "Nivel de Servicio": "0.2936724068487509"
+    },
+    {
+      "PDV": "4P3-REBAJA PLUS No. 4 PEREIRA PARQUE BOLIVAR",
+      "Nivel de Servicio": "0.2938151075072404"
+    },
+    {
+      "PDV": "159-REBAJA No. 1 CAUCASIA LA INMACULADA",
+      "Nivel de Servicio": "0.2938956812961991"
+    },
+    {
+      "PDV": "244-REBAJA No. 15 BOGOTA ROMA",
+      "Nivel de Servicio": "0.2940037802791121"
+    },
+    {
+      "PDV": "1N5-REBAJA PLUS No. 3 PLATO EL CARMEN",
+      "Nivel de Servicio": "0.2942775417619315"
+    },
+    {
+      "PDV": "452-REBAJA PLUS No. 2 BUGA JOSE MARIA CABAL",
+      "Nivel de Servicio": "0.2942811503036399"
+    },
+    {
+      "PDV": "1G8-REBAJA PLUS No. 2 AGUSTIN CODAZZI CENTRO",
+      "Nivel de Servicio": "0.2943623301523738"
+    },
+    {
+      "PDV": "5R1-REBAJA PLUS No. 51 CALI CIUDAD 2000",
+      "Nivel de Servicio": "0.2943799224560253"
+    },
+    {
+      "PDV": "1F3-REBAJA PLUS No. 1 PIVIJAY PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2945394270386066"
+    },
+    {
+      "PDV": "1C8-REBAJA PLUS No. 2 CERETE EL SOCORRO",
+      "Nivel de Servicio": "0.2946737737285333"
+    },
+    {
+      "PDV": "2H6-REBAJA No. 2 GRANADA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2947159605742652"
+    },
+    {
+      "PDV": "413-REBAJA PLUS No. 11 CALI SAN FERNANDO",
+      "Nivel de Servicio": "0.2948776683275718"
+    },
+    {
+      "PDV": "2U9-REBAJA PLUS No. 26 BOGOTA FONTIBON 5",
+      "Nivel de Servicio": "0.2955380555645071"
+    },
+    {
+      "PDV": "128-REBAJA PLUS No. 3 RIOHACHA ANTIGUO MERCADO",
+      "Nivel de Servicio": "0.2955991441852758"
+    },
+    {
+      "PDV": "459-REBAJA No. 1 LA VIRGINIA CENTRO",
+      "Nivel de Servicio": "0.2957240580900227"
+    },
+    {
+      "PDV": "3W6-REBAJA PLUS No. 8 YOPAL LA CAMPINA",
+      "Nivel de Servicio": "0.2958965751266673"
+    },
+    {
+      "PDV": "3W3-REBAJA PLUS No. 6 YOPAL CENTRO",
+      "Nivel de Servicio": "0.2960602273526574"
+    },
+    {
+      "PDV": "1N4-REBAJA PLUS No. 2 BARANOA CENTRO",
+      "Nivel de Servicio": "0.2961840205011532"
+    },
+    {
+      "PDV": "142-REBAJA No. 7 CARTAGENA BAZURTO AL LADO DE DIEGO SPORT",
+      "Nivel de Servicio": "0.2961979053802246"
+    },
+    {
+      "PDV": "376-REBAJA PLUS No. 2 OCANA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.2963930018509867"
+    },
+    {
+      "PDV": "453-REBAJA PLUS No. 3 BUGA JOSE MARIA CABAL",
+      "Nivel de Servicio": "0.2967154004682178"
+    },
+    {
+      "PDV": "1I6-REBAJA PLUS No. 1 CHINU CENTRO",
+      "Nivel de Servicio": "0.2970203137603369"
+    },
+    {
+      "PDV": "2U8-REBAJA No. 86 BOGOTA FONTIBON 4",
+      "Nivel de Servicio": "0.2974737094880391"
+    },
+    {
+      "PDV": "5O5-REBAJA PLUS No. 46 CALI AUTOPISTA SURORIENTAL",
+      "Nivel de Servicio": "0.2974955297381043"
+    },
+    {
+      "PDV": "5Q1-REBAJA PLUS No. 6 BARRANCABERMEJA CINCUENTENARIO",
+      "Nivel de Servicio": "0.2976284601557032"
+    },
+    {
+      "PDV": "1M2-REBAJA No. 3 CHINU CENTRO",
+      "Nivel de Servicio": "0.2981003320939166"
+    },
+    {
+      "PDV": "425-REBAJA PLUS No. 12 CALI CALIMA",
+      "Nivel de Servicio": "0.2983314950509435"
+    },
+    {
+      "PDV": "1G9-REBAJA PLUS No. 1 CURUMANI CENTRO",
+      "Nivel de Servicio": "0.2990422991408118"
+    },
+    {
+      "PDV": "139-REBAJA No. 14 BARRANQUILLA SUPERMERCADO EL UNICO",
+      "Nivel de Servicio": "0.2996548884652937"
+    },
+    {
+      "PDV": "4T2-REBAJA No. 10 PASTO AVENIDA COLOMBIA",
+      "Nivel de Servicio": "0.2998021196578661"
+    },
+    {
+      "PDV": "466-REBAJA No. 3 CARTAGO HOSPITAL UNIVERSITARIO DEL VALLE",
+      "Nivel de Servicio": "0.2999057125546088"
+    },
+    {
+      "PDV": "5Q4-REBAJA PLUS No. 11 IBAGUE MILLA DE ORO",
+      "Nivel de Servicio": "0.300357715340129"
+    },
+    {
+      "PDV": "4C1-REBAJA No. 1 MANIZALES CENTRO",
+      "Nivel de Servicio": "0.3004578435600305"
+    },
+    {
+      "PDV": "4R2-REBAJA PLUS No. 7 PEREIRA POBLADO 2",
+      "Nivel de Servicio": "0.3007111633737235"
+    },
+    {
+      "PDV": "110-REBAJA No. 1 SINCELEJO ANTIGUO FOTOCOPI",
+      "Nivel de Servicio": "0.3009417545443198"
+    },
+    {
+      "PDV": "5S7-REBAJA PLUS No. 11 SANTA MARTA LOS ALMENDROS",
+      "Nivel de Servicio": "0.3010845442803053"
+    },
+    {
+      "PDV": "946-REBAJA PLUS No. 1 SAN VICENTE DEL CAGUAN",
+      "Nivel de Servicio": "0.3012215171538992"
+    },
+    {
+      "PDV": "2J7-REBAJA PLUS No. 2 GUAMO PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3013538064896893"
+    },
+    {
+      "PDV": "5O4-REBAJA PLUS No. 11 PEREIRA CLINICA LOS ROSALES",
+      "Nivel de Servicio": "0.3014066463181107"
+    },
+    {
+      "PDV": "1C9-REBAJA PLUS No. 5 CARTAGENA ZONA INDUSTRIAL LA PURINA",
+      "Nivel de Servicio": "0.3014831140990668"
+    },
+    {
+      "PDV": "196-REBAJA PLUS No. 34 BARRANQUILLA LOS ANDES",
+      "Nivel de Servicio": "0.3017430154853892"
+    },
+    {
+      "PDV": "2P7-REBAJA No. 1 PUERTO LOPEZ CENTRO",
+      "Nivel de Servicio": "0.3020732687419425"
+    },
+    {
+      "PDV": "136-REBAJA PLUS No. 25 BARRANQUILLA LA VICTORIA",
+      "Nivel de Servicio": "0.3022256646854087"
+    },
+    {
+      "PDV": "4R5-REBAJA PLUS No. 10 PEREIRA CUBA",
+      "Nivel de Servicio": "0.3023515614382831"
+    },
+    {
+      "PDV": "2C3-REBAJA No. 1 ESPINAL CENTRO",
+      "Nivel de Servicio": "0.3031048897152099"
+    },
+    {
+      "PDV": "4E8-REBAJA PLUS No. 1 PIENDAMO SAGRADA FAMILIA",
+      "Nivel de Servicio": "0.3031713471988757"
+    },
+    {
+      "PDV": "320-REBAJA No. 7 CUCUTA MERCADO LA SEXTA",
+      "Nivel de Servicio": "0.3031836446697113"
+    },
+    {
+      "PDV": "4C6-REBAJA PLUS No. 2 MANIZALES CENTRO COMERCIAL NUEVA ERA",
+      "Nivel de Servicio": "0.3036005681169214"
+    },
+    {
+      "PDV": "284-REBAJA No. 1 FRESNO CENTRO",
+      "Nivel de Servicio": "0.3039030269981707"
+    },
+    {
+      "PDV": "417-REBAJA PLUS No. 63 CALI AVENIDA SIMON BOLIVAR",
+      "Nivel de Servicio": "0.3039672177740008"
+    },
+    {
+      "PDV": "156-REBAJA PLUS No. 19 CARTAGENA BOCAGRANDE",
+      "Nivel de Servicio": "0.3041257108837342"
+    },
+    {
+      "PDV": "2S6-REBAJA No. 63 BOGOTA ALMERIA - C.C. PUNTO 72",
+      "Nivel de Servicio": "0.3042250707490864"
+    },
+    {
+      "PDV": "2O1-REBAJA PLUS No. 5 BOGOTA PALERMO 1",
+      "Nivel de Servicio": "0.3043741321298311"
+    },
+    {
+      "PDV": "3J3-REBAJA No. 2 APARTADO BARRIO ORTIZ",
+      "Nivel de Servicio": "0.3044609776829382"
+    },
+    {
+      "PDV": "2H8-REBAJA No. 1 CHIA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.305135935943255"
+    },
+    {
+      "PDV": "2B8-REBAJA PLUS No. 4 FLORENCIA GALERIA",
+      "Nivel de Servicio": "0.3053691440829132"
+    },
+    {
+      "PDV": "1L8-REBAJA No. 2 EL CARMEN DE BOLIVAR",
+      "Nivel de Servicio": "0.3055989582947795"
+    },
+    {
+      "PDV": "5D5-REBAJA PLUS No. 1 SOLEDAD LOS ALMENDROS",
+      "Nivel de Servicio": "0.3060548029355329"
+    },
+    {
+      "PDV": "3M1-REBAJA No. 6 ENVIGADO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3063626032309892"
+    },
+    {
+      "PDV": "5D8-REBAJA PLUS No. 31 BOGOTA CALLE 100",
+      "Nivel de Servicio": "0.3067005309472845"
+    },
+    {
+      "PDV": "442-REBAJA PLUS No. 1 YUMBO CENTRO",
+      "Nivel de Servicio": "0.3070325518919464"
+    },
+    {
+      "PDV": "1O6-REBAJA No. 1 CIENAGA DE ORO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3071718272965736"
+    },
+    {
+      "PDV": "1O2-REBAJA PLUS No. 34 CARTAGENA LA MARIA",
+      "Nivel de Servicio": "0.3074792252410746"
+    },
+    {
+      "PDV": "1J7-REBAJA PLUS No. 2 BARRANQUILLA (DEPOSITO) SAN PEDRO",
+      "Nivel de Servicio": "0.307546806736793"
+    },
+    {
+      "PDV": "5T7-REBAJA PLUS No. 3 MARIQUITA YULDAMA",
+      "Nivel de Servicio": "0.3078138929253459"
+    },
+    {
+      "PDV": "933-REBAJA No. 1 CAMPOALEGRE",
+      "Nivel de Servicio": "0.307972712934057"
+    },
+    {
+      "PDV": "3C7-REBAJA PLUS No. 1 PUERTO BERRIO FRENTE AL HOSPITAL",
+      "Nivel de Servicio": "0.3081073434203157"
+    },
+    {
+      "PDV": "2J2-REBAJA PLUS No. 2 PITALITO PLAZA CIVICA",
+      "Nivel de Servicio": "0.3084299375334957"
+    },
+    {
+      "PDV": "5P9-REBAJA PLUS No. 54 CALI VALLE DE LILI EDIFICIO PODIUM",
+      "Nivel de Servicio": "0.3085471240578139"
+    },
+    {
+      "PDV": "295-REBAJA No. 1 GARZON CENTRO",
+      "Nivel de Servicio": "0.3090088708028619"
+    },
+    {
+      "PDV": "497-REBAJA PLUS No. 9 CALI TEQUENDAMA",
+      "Nivel de Servicio": "0.3091785692439047"
+    },
+    {
+      "PDV": "5P8-REBAJA PLUS No. 6 SINCELEJO SOCORRO",
+      "Nivel de Servicio": "0.3093210448838301"
+    },
+    {
+      "PDV": "1L4-REBAJA PLUS No. 1 SINCE CENTRO",
+      "Nivel de Servicio": "0.3095923440233061"
+    },
+    {
+      "PDV": "1I4-REBAJA PLUS No. 31 CARTAGENA LA POPA",
+      "Nivel de Servicio": "0.3096063966576493"
+    },
+    {
+      "PDV": "1H9-REBAJA No. 6 RIOHACHA FRENTE METRO",
+      "Nivel de Servicio": "0.3103186624779882"
+    },
+    {
+      "PDV": "1B3-REBAJA PLUS No. 3 SOLEDAD HIPODROMO",
+      "Nivel de Servicio": "0.3105549607248332"
+    },
+    {
+      "PDV": "2C7-REBAJA No. 1 IBAGUE AL FRENTE DE CREDIDESCUENTOS",
+      "Nivel de Servicio": "0.3122194695254802"
+    },
+    {
+      "PDV": "5W5-REBAJA PLUS No. 1 ANSERMA CENTRO",
+      "Nivel de Servicio": "0.3123264568562797"
+    },
+    {
+      "PDV": "2H1-REBAJA PLUS No. 3 PUERTO BOYACA CALLE DE LOS PLATANOS",
+      "Nivel de Servicio": "0.3127258140067055"
+    },
+    {
+      "PDV": "476-REBAJA No. 11 CALI BARRIO LA ESMERALDA",
+      "Nivel de Servicio": "0.312771926867482"
+    },
+    {
+      "PDV": "274-REBAJA PLUS No. 1 VILLANUEVA CENTRO",
+      "Nivel de Servicio": "0.312892142670954"
+    },
+    {
+      "PDV": "184-REBAJA No. 2 CAUCASIA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.3135249699346809"
+    },
+    {
+      "PDV": "1P2-REBAJA No. 4 PLATO CENTRO",
+      "Nivel de Servicio": "0.3136435306256741"
+    },
+    {
+      "PDV": "5D6-REBAJA PLUS No. 1 SAN ONOFRE",
+      "Nivel de Servicio": "0.3141522967695626"
+    },
+    {
+      "PDV": "127-REBAJA PLUS No. 5 RIOHACHA CENTRO",
+      "Nivel de Servicio": "0.3142752884830147"
+    },
+    {
+      "PDV": "488-REBAJA PLUS No. 3 PASTO PANAMERICANO",
+      "Nivel de Servicio": "0.3149638993553665"
+    },
+    {
+      "PDV": "2I9-REBAJA No. 50 BOGOTA PARQUE NACIONAL",
+      "Nivel de Servicio": "0.3150447163374778"
+    },
+    {
+      "PDV": "3A5-REBAJA No. 8 SOGAMOSO CENTRO",
+      "Nivel de Servicio": "0.31508084766907"
+    },
+    {
+      "PDV": "3L4-REBAJA No. 3 PAMPLONA CHAPINERO",
+      "Nivel de Servicio": "0.3154604651010753"
+    },
+    {
+      "PDV": "1N3-REBAJA PLUS No. 35 CARTAGENA LOS ALPES",
+      "Nivel de Servicio": "0.3154989990241363"
+    },
+    {
+      "PDV": "158-REBAJA PLUS No. 18 BARRANQUILLA CIUDADELA",
+      "Nivel de Servicio": "0.315550524909355"
+    },
+    {
+      "PDV": "5X5-REBAJA PLUS No. 10 SINCELEJO LOS TEJARES",
+      "Nivel de Servicio": "0.315943355434243"
+    },
+    {
+      "PDV": "5U6-REBAJA PLUS No. 1 RICAURTE C. C. CENTRAL PLAZA",
+      "Nivel de Servicio": "0.3161737862599414"
+    },
+    {
+      "PDV": "4D1-REBAJA PLUS No. 3 DOSQUEBRADAS GUADALUPE",
+      "Nivel de Servicio": "0.3161908920574225"
+    },
+    {
+      "PDV": "2P9-REBAJA No. 12 NEIVA TENERIFE",
+      "Nivel de Servicio": "0.3164828183397654"
+    },
+    {
+      "PDV": "2P8-REBAJA No. 5 GIRARDOT FRENTE AV VILLAS",
+      "Nivel de Servicio": "0.3165503297249833"
+    },
+    {
+      "PDV": "194-REBAJA PLUS No. 4 SOLEDAD CENTRO",
+      "Nivel de Servicio": "0.3166253429032708"
+    },
+    {
+      "PDV": "2J3-REBAJA PLUS No. 1 LA DORADA HOSPITAL",
+      "Nivel de Servicio": "0.317117647736077"
+    },
+    {
+      "PDV": "246-REBAJA No. 17 IBAGUE LA ESPERANZA",
+      "Nivel de Servicio": "0.3171945547396436"
+    },
+    {
+      "PDV": "1N6-REBAJA No. 2 PUERTO COLOMBIA VILLA CAMPESTRE",
+      "Nivel de Servicio": "0.3173952247519378"
+    },
+    {
+      "PDV": "2E7-REBAJA PLUS No. 1 FLORENCIA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3174838390141325"
+    },
+    {
+      "PDV": "5A9-REBAJA No. 22 CARTAGENA LA CAMPINA",
+      "Nivel de Servicio": "0.3181868040174789"
+    },
+    {
+      "PDV": "185-REBAJA No. 22 BARRANQUILLA ALTOS DEL PRADO",
+      "Nivel de Servicio": "0.3186385762915217"
+    },
+    {
+      "PDV": "147-REBAJA PLUS No. 1 BARANOA CENTRO",
+      "Nivel de Servicio": "0.3187663881313109"
+    },
+    {
+      "PDV": "293-REBAJA PLUS No. 1 PITALITO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3188437527253784"
+    },
+    {
+      "PDV": "5S5-REBAJA PLUS No. 3 CARTAGO EL PRADO",
+      "Nivel de Servicio": "0.3191157521844476"
+    },
+    {
+      "PDV": "3W5-REBAJA PLUS No. 7 YOPAL LA PRADERA",
+      "Nivel de Servicio": "0.319803726943827"
+    },
+    {
+      "PDV": "4P8-REBAJA PLUS No. 6 PEREIRA SAN ANDRESITO",
+      "Nivel de Servicio": "0.3198186472096745"
+    },
+    {
+      "PDV": "2M3-REBAJA No. 2 MARIQUITA AVENIDA PRINCIPAL",
+      "Nivel de Servicio": "0.319874662639158"
+    },
+    {
+      "PDV": "5S1-REBAJA PLUS No. 6 VILLAVICENCIO LA ESPERANZA",
+      "Nivel de Servicio": "0.3199210314359714"
+    },
+    {
+      "PDV": "2Y9-REBAJA No. 122 BOGOTA SAN VICTORINO 7 CARRERA 10",
+      "Nivel de Servicio": "0.3204287601426105"
+    },
+    {
+      "PDV": "5U3-REBAJA PLUS No. 2 COROZAL CEIBON",
+      "Nivel de Servicio": "0.3205598722404585"
+    },
+    {
+      "PDV": "5L7-REBAJA PLUS No. 5 SINCELEJO AVENIDA ARGELIA",
+      "Nivel de Servicio": "0.3205843397863731"
+    },
+    {
+      "PDV": "2R3-REBAJA PLUS No. 7 NEIVA BUGANVILES",
+      "Nivel de Servicio": "0.3207163498935263"
+    },
+    {
+      "PDV": "2Y3-REBAJA No. 116 BOGOTA HEROES",
+      "Nivel de Servicio": "0.3213236194550709"
+    },
+    {
+      "PDV": "5T2-REBAJA PLUS No. 39 CARTAGENA LA CONSOLATA",
+      "Nivel de Servicio": "0.3216184498731851"
+    },
+    {
+      "PDV": "2N2-REBAJA PLUS No. 1 PACHO PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3218247814959102"
+    },
+    {
+      "PDV": "4C5-REBAJA PLUS No. 4 MANIZALES PLAZA BOLIVAR",
+      "Nivel de Servicio": "0.3223618681760025"
+    },
+    {
+      "PDV": "5B6-REBAJA No. 17 MONTERIA MOGAMBO",
+      "Nivel de Servicio": "0.3229077964391197"
+    },
+    {
+      "PDV": "440-REBAJA PLUS No. 3 IPIALES BATALLON",
+      "Nivel de Servicio": "0.3229341051759061"
+    },
+    {
+      "PDV": "468-REBAJA No. 1 TUQUERRES PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.3229440474978797"
+    },
+    {
+      "PDV": "4Q4-REBAJA PLUS No. 5 ARMENIA PARQUE FUNDADORES",
+      "Nivel de Servicio": "0.3235535731058084"
+    },
+    {
+      "PDV": "319-REBAJA No. 6 CUCUTA PALACIO NACIONAL",
+      "Nivel de Servicio": "0.3240040975442546"
+    },
+    {
+      "PDV": "386-REBAJA PLUS No. 3 TUNJA SANTA ANA",
+      "Nivel de Servicio": "0.3249377912932594"
+    },
+    {
+      "PDV": "2Y6-REBAJA No. 4 ZIPAQUIRA CENTRO",
+      "Nivel de Servicio": "0.3250209565166279"
+    },
+    {
+      "PDV": "2X3-REBAJA PLUS No. 52 BOGOTA LA SALLE 1",
+      "Nivel de Servicio": "0.3265543999781394"
+    },
+    {
+      "PDV": "487-REBAJA PLUS No. 4 PASTO CENTRO COMERCIAL LA 17",
+      "Nivel de Servicio": "0.3266709734086974"
+    },
+    {
+      "PDV": "1A2-REBAJA PLUS No. 24 BARRANQUILLA SERVIDROGAS DE LA COSTA",
+      "Nivel de Servicio": "0.3267496397652498"
+    },
+    {
+      "PDV": "4P5-REBAJA PLUS No. 9 PEREIRA INTERCAMBIADOR CUBA",
+      "Nivel de Servicio": "0.3274595484588837"
+    },
+    {
+      "PDV": "2N6-REBAJA PLUS No. 86 BOGOTA CASABLANCA 2 ROMA",
+      "Nivel de Servicio": "0.3280264629465393"
+    },
+    {
+      "PDV": "1P4-REBAJA PLUS No. 1 GALAPA CENTRO",
+      "Nivel de Servicio": "0.3280584276874421"
+    },
+    {
+      "PDV": "5R8-REBAJA PLUS No. 33 BARRANQUILLA CIUDADELA 20 DE JULIO",
+      "Nivel de Servicio": "0.3281783639637516"
+    },
+    {
+      "PDV": "3W2-REBAJA PLUS No. 3 YOPAL CENTRO",
+      "Nivel de Servicio": "0.3284161547691435"
+    },
+    {
+      "PDV": "4C7-REBAJA No. 7 MANIZALES PARQUE ALFONSO LOPEZ",
+      "Nivel de Servicio": "0.3289564981717917"
+    },
+    {
+      "PDV": "163-REBAJA No. 6 SANTA MARTA AVENIDA LIBERTADOR",
+      "Nivel de Servicio": "0.3302050311265186"
+    },
+    {
+      "PDV": "403-REBAJA PLUS No. 58 CALI PLAZA DE CAICEDO",
+      "Nivel de Servicio": "0.3304085097454333"
+    },
+    {
+      "PDV": "2A7-REBAJA PLUS No. 1 ORTEGA CENTRO",
+      "Nivel de Servicio": "0.3314554065612552"
+    },
+    {
+      "PDV": "4N1-REBAJA No. 7 ARMENIA LAS ACACIAS",
+      "Nivel de Servicio": "0.3320975094272935"
+    },
+    {
+      "PDV": "5I4-REBAJA PLUS No. 35 CALI MALL LA 44",
+      "Nivel de Servicio": "0.3321402639199941"
+    },
+    {
+      "PDV": "2Y5-REBAJA No. 119 BOGOTA MAZUREN 1",
+      "Nivel de Servicio": "0.3327686377924746"
+    },
+    {
+      "PDV": "471-REBAJA PLUS No. 1 PUERTO TEJADA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3337084486273293"
+    },
+    {
+      "PDV": "5A7-REBAJA No. 128 BOGOTA CALLE 127 C. C. NIZA",
+      "Nivel de Servicio": "0.3342907132894947"
+    },
+    {
+      "PDV": "361-REBAJA No. 2 PIE DE CUESTA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.3350434825944921"
+    },
+    {
+      "PDV": "5S4-REBAJA PLUS No. 7 MANIZALES CHIPRE",
+      "Nivel de Servicio": "0.335366493330763"
+    },
+    {
+      "PDV": "3D5-REBAJA PLUS NO. 3 EL BANCO PUEBLO NUEVO",
+      "Nivel de Servicio": "0.3359613462546572"
+    },
+    {
+      "PDV": "167-REBAJA No. 18 BARRANQUILLA CIUDADELA AL LADO DE METRO CENTRO",
+      "Nivel de Servicio": "0.3360208622679018"
+    },
+    {
+      "PDV": "3E9-REBAJA PLUS No. 12 MEDELLIN ESTACION FLORESTA",
+      "Nivel de Servicio": "0.3365679041966509"
+    },
+    {
+      "PDV": "1L6-REBAJA No. 14 MONTERIA LA GRANJA",
+      "Nivel de Servicio": "0.3367295012568196"
+    },
+    {
+      "PDV": "2S9-REBAJA No. 78 BOGOTA SANTA LIBRADA 3",
+      "Nivel de Servicio": "0.3370393363659724"
+    },
+    {
+      "PDV": "928-REBAJA PLUS No. 19 CALI ESTACION TEXACO VIA PANCE",
+      "Nivel de Servicio": "0.33764583633798"
+    },
+    {
+      "PDV": "5Y1-REBAJA PLUS No. 4 ITAGUI PASAJES DE MARIA",
+      "Nivel de Servicio": "0.3378703723717404"
+    },
+    {
+      "PDV": "3E4-REBAJA No. 2 ITAGUI AV VILLAS",
+      "Nivel de Servicio": "0.3399005862430127"
+    },
+    {
+      "PDV": "1A7-REBAJA No. 3 PLANETA RICA EL MOLINO",
+      "Nivel de Servicio": "0.340140747861859"
+    },
+    {
+      "PDV": "2A1-REBAJA No. 4 NEIVA SANTA INES",
+      "Nivel de Servicio": "0.3402114837269918"
+    },
+    {
+      "PDV": "5K1-REBAJA PLUS No. 19 BARRANQUILLA HOSPITAL PEDIATRICO ADELITA DE CHAR",
+      "Nivel de Servicio": "0.340907811158332"
+    },
+    {
+      "PDV": "2C6-REBAJA No. 3 GIRARDOT GLORIETA EL LEON",
+      "Nivel de Servicio": "0.3410036696651533"
+    },
+    {
+      "PDV": "4E6-REBAJA No. 2 SANTANDER DE QUILICHAO PANAMERICANO GALERIA",
+      "Nivel de Servicio": "0.3416207250894173"
+    },
+    {
+      "PDV": "485-REBAJA No. 1 PASTO COLEGIO SAN JUAN BOSCO",
+      "Nivel de Servicio": "0.3440051228298493"
+    },
+    {
+      "PDV": "5S3-REBAJA PLUS No. 31 BARRANQUILLA ALAMEDA DEL RIO",
+      "Nivel de Servicio": "0.3448269666810029"
+    },
+    {
+      "PDV": "482-REBAJA PLUS No. 1 PATIA (EL BORDO) PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3453000104926411"
+    },
+    {
+      "PDV": "1P8-REBAJA No. 4 CAUCASIA EL PALMAR",
+      "Nivel de Servicio": "0.3453945184331149"
+    },
+    {
+      "PDV": "5L9-REBAJA PLUS No. 2 DOSQUEBRADAS C. C. MACARENA",
+      "Nivel de Servicio": "0.3467499240899929"
+    },
+    {
+      "PDV": "123-REBAJA PLUS No. 26 BARRANQUILLA GALAN",
+      "Nivel de Servicio": "0.3473391257156199"
+    },
+    {
+      "PDV": "341-REBAJA PLUS No. 4 SOGAMOSO",
+      "Nivel de Servicio": "0.3473973786998554"
+    },
+    {
+      "PDV": "1M1-REBAJA No. 2 CHINU CENTRO",
+      "Nivel de Servicio": "0.3474317274955822"
+    },
+    {
+      "PDV": "1J5-REBAJA PLUS No. 2 RIOHACHA ENTRERIO",
+      "Nivel de Servicio": "0.3474733306039891"
+    },
+    {
+      "PDV": "434-REBAJA PLUS No. 18 CALI CENTRO COMERCIAL COLON PLAZA",
+      "Nivel de Servicio": "0.3489581394280044"
+    },
+    {
+      "PDV": "2D9-REBAJA PLUS No. 6 NEIVA CENTRO",
+      "Nivel de Servicio": "0.3492257646465865"
+    },
+    {
+      "PDV": "5R3-REBAJA PLUS No. 68 BOGOTA PORCIUNCULA",
+      "Nivel de Servicio": "0.3500722449870689"
+    },
+    {
+      "PDV": "983-REBAJA No. 2 DOSQUEBRADAS MILAN",
+      "Nivel de Servicio": "0.3501363905447586"
+    },
+    {
+      "PDV": "5D1-REBAJA No. 16 CARTAGENA PIE DE LA POPA",
+      "Nivel de Servicio": "0.350340033990744"
+    },
+    {
+      "PDV": "3Y4-REBAJA No. 1 VILLAGARZON",
+      "Nivel de Servicio": "0.3513249122752847"
+    },
+    {
+      "PDV": "2B5-REBAJA No. 1 EL DONCELLO PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.3514217859181437"
+    },
+    {
+      "PDV": "1B2-REBAJA PLUS No. 23 CARTAGENA DANIEL LEMAITRE",
+      "Nivel de Servicio": "0.3520130918519165"
+    },
+    {
+      "PDV": "264-REBAJA PLUS No. 1 PUERTO GAITAN PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3526961614492576"
+    },
+    {
+      "PDV": "335-REBAJA No. 1 TUNJA UNIVERSIDAD SANTO TOMAS",
+      "Nivel de Servicio": "0.352842535475727"
+    },
+    {
+      "PDV": "426-REBAJA PLUS No. 41 CALI BELISARIO CAICEDO",
+      "Nivel de Servicio": "0.3531856808514189"
+    },
+    {
+      "PDV": "3C6-REBAJA No. 1 PUERTO BERRIO CENTRO",
+      "Nivel de Servicio": "0.3540382990967453"
+    },
+    {
+      "PDV": "4H1-REBAJA No. 1 CHINCHINA CENTRO",
+      "Nivel de Servicio": "0.3547763154119744"
+    },
+    {
+      "PDV": "1A5-REBAJA No. 19 CARTAGENA ALCIBIA",
+      "Nivel de Servicio": "0.3548631217416037"
+    },
+    {
+      "PDV": "1H6-REBAJA PLUS No. 16 VALLEDUPAR VILLA ROSARIO",
+      "Nivel de Servicio": "0.3551477462044392"
+    },
+    {
+      "PDV": "3D6-REBAJA No. 2 RIONEGRO AVENIDA DE LOS ESTUDIANTES",
+      "Nivel de Servicio": "0.3551992037919579"
+    },
+    {
+      "PDV": "189-REBAJA No. 3 RIOHACHA ROMPOINT POLICIA",
+      "Nivel de Servicio": "0.3553356215758355"
+    },
+    {
+      "PDV": "5X7-REBAJA PLUS No. 69 CALI AVENIDA ROOSEVELT",
+      "Nivel de Servicio": "0.3557136400907682"
+    },
+    {
+      "PDV": "3Y6-REBAJA PLUS No. 2 MADRID CENTRO",
+      "Nivel de Servicio": "0.3559280640418567"
+    },
+    {
+      "PDV": "2R1-REBAJA No. 42 BOGOTA CHAPINERO 2 LA SALLE",
+      "Nivel de Servicio": "0.3572056958046466"
+    },
+    {
+      "PDV": "2M9-REBAJA No. 2 LA MESA DIAGONAL HOSPITAL",
+      "Nivel de Servicio": "0.3575687310842001"
+    },
+    {
+      "PDV": "383-REBAJA No. 9 CUCUTA ATALAYA I ETAPA",
+      "Nivel de Servicio": "0.3584587846945693"
+    },
+    {
+      "PDV": "4C3-REBAJA No. 3 MANIZALES LA ENEA",
+      "Nivel de Servicio": "0.3584727341556789"
+    },
+    {
+      "PDV": "2S5-REBAJA No. 72 BOGOTA RESTREPO 3 SECTOR COMERCIAL",
+      "Nivel de Servicio": "0.3585398526309442"
+    },
+    {
+      "PDV": "4T1-REBAJA PLUS No. 1 TUMACO AVENIDA LOS ESTUDIANTES",
+      "Nivel de Servicio": "0.3593271854374727"
+    },
+    {
+      "PDV": "3L1-REBAJA PLUS No. 2 PIE DE CUESTA SAN TELMO",
+      "Nivel de Servicio": "0.3594765317697867"
+    },
+    {
+      "PDV": "1B5-REBAJA PLUS No. 32 BARRANQUILLA PASEO BOLIVAR",
+      "Nivel de Servicio": "0.3600590189535908"
+    },
+    {
+      "PDV": "5O7-REBAJA PLUS No. 29 BARRANQUILLA BARRIO EL SILENCIO",
+      "Nivel de Servicio": "0.3601065892993767"
+    },
+    {
+      "PDV": "3K8-REBAJA No. 18 CUCUTA SAN LUIS",
+      "Nivel de Servicio": "0.3602665727823287"
+    },
+    {
+      "PDV": "4P7-REBAJA No. 7 PEREIRA CUBA GALERIA",
+      "Nivel de Servicio": "0.3606134314894578"
+    },
+    {
+      "PDV": "489-REBAJA No. 5 PASTO EL POTRERILLO",
+      "Nivel de Servicio": "0.3661061562912776"
+    },
+    {
+      "PDV": "5D7-REBAJA PLUS No. 30 BOGOTA CIUDAD MONTES",
+      "Nivel de Servicio": "0.3669481446833648"
+    },
+    {
+      "PDV": "2M5-REBAJA No. 3 ZIPAQUIRA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3674231577008052"
+    },
+    {
+      "PDV": "1I2-REBAJA PLUS No. 1 CIENAGA PLAZA CENTENARIO",
+      "Nivel de Servicio": "0.3677363317701827"
+    },
+    {
+      "PDV": "369-REBAJA No. 18 BUCARAMANGA ANTIGUO CAMPESTRE",
+      "Nivel de Servicio": "0.3680056203799109"
+    },
+    {
+      "PDV": "3I2-REBAJA No. 5 RIONEGRO EL PORVENIR",
+      "Nivel de Servicio": "0.3700234379970319"
+    },
+    {
+      "PDV": "2B7-REBAJA PLUS No. 2 PUERTO ASIS CALLE DEL PUERTO",
+      "Nivel de Servicio": "0.3709586877076891"
+    },
+    {
+      "PDV": "247-REBAJA No. 1 SOACHA AUTOPISTA SUR",
+      "Nivel de Servicio": "0.371236040416968"
+    },
+    {
+      "PDV": "5N9-REBAJA PLUS No. 4 RIOHACHA CLINICA CEDES",
+      "Nivel de Servicio": "0.3713643411900139"
+    },
+    {
+      "PDV": "365-REBAJA No. 5 FLORIDABLANCA CALDAS",
+      "Nivel de Servicio": "0.3717945352473012"
+    },
+    {
+      "PDV": "493-REBAJA No. 9 PASTO AUTOSERVICIO ABRAHAM DELGADO",
+      "Nivel de Servicio": "0.3720624088242432"
+    },
+    {
+      "PDV": "4K6-REBAJA No. 1 DAGUA CHAPINERO",
+      "Nivel de Servicio": "0.3722483153292739"
+    },
+    {
+      "PDV": "2A9-REBAJA No. 1 MOCOA PARQUE CENTRAL",
+      "Nivel de Servicio": "0.3726655401989039"
+    },
+    {
+      "PDV": "475-REBAJA No. 3 TUMACO GALERIA",
+      "Nivel de Servicio": "0.3729750338247751"
+    },
+    {
+      "PDV": "2I1-REBAJA PLUS No. 12 NEIVA LA ESTACION",
+      "Nivel de Servicio": "0.373423149934"
+    },
+    {
+      "PDV": "490-REBAJA PLUS No. 5 PASTO AVENIDA BOYACA",
+      "Nivel de Servicio": "0.3749255983812809"
+    },
+    {
+      "PDV": "1D5-REBAJA No. 5 RIOHACHA AVENIDA AEROPUERTO",
+      "Nivel de Servicio": "0.3750514535495324"
+    },
+    {
+      "PDV": "206-REBAJA PLUS No. 65 BOGOTA SAN VICTORINO 6 AVENIDA JIMENEZ",
+      "Nivel de Servicio": "0.37631104594317"
+    },
+    {
+      "PDV": "4Q3-REBAJA No. 3 ARMENIA BANCO POPULAR",
+      "Nivel de Servicio": "0.3768982536758757"
+    },
+    {
+      "PDV": "5V8-REBAJA PLUS No. 1 JUAN DE ACOSTA CENTRO",
+      "Nivel de Servicio": "0.3772346617950234"
+    },
+    {
+      "PDV": "5M2-REBAJA PLUS No. 17 BUCARAMANGA CENTRO",
+      "Nivel de Servicio": "0.3783458912554147"
+    },
+    {
+      "PDV": "1J4-REBAJA No. 1 MALAMBO CENTRO",
+      "Nivel de Servicio": "0.3795290638217205"
+    },
+    {
+      "PDV": "348-REBAJA No. 3 BARRANCABERMEJA LA TORA",
+      "Nivel de Servicio": "0.3801612298352617"
+    },
+    {
+      "PDV": "214-REBAJA No. 15 IBAGUE SALADO",
+      "Nivel de Servicio": "0.3808131034623474"
+    },
+    {
+      "PDV": "5K8-REBAJA PLUS No. 3 JAMUNDI PRIMAVERA",
+      "Nivel de Servicio": "0.3814248690326711"
+    },
+    {
+      "PDV": "474-REBAJA No. 1 SANTANDER DE QUILICHAO GALERIA",
+      "Nivel de Servicio": "0.3817598653458942"
+    },
+    {
+      "PDV": "5Q3-REBAJA PLUS No. 32 CARTAGENA EL LIBANO",
+      "Nivel de Servicio": "0.3817948276042412"
+    },
+    {
+      "PDV": "4E4-REBAJA No. 1 FLORIDA CENTRO",
+      "Nivel de Servicio": "0.3828211148468008"
+    },
+    {
+      "PDV": "389-REBAJA No. 6 FLORIDABLANCA EL CARMEN",
+      "Nivel de Servicio": "0.3837721848633034"
+    },
+    {
+      "PDV": "1M9-REBAJA No. 4 MAGANGUE MANGO BICHE",
+      "Nivel de Servicio": "0.3856378100909902"
+    },
+    {
+      "PDV": "3H3-REBAJA No. 37 MEDELLIN EL SALVADOR",
+      "Nivel de Servicio": "0.3861594800619153"
+    },
+    {
+      "PDV": "4E1-REBAJA No. 1 EL CERRITO CENTRO",
+      "Nivel de Servicio": "0.3870086085809089"
+    },
+    {
+      "PDV": "393-REBAJA PLUS No. 4 CUCUTA AEROPUERTO",
+      "Nivel de Servicio": "0.3879192290157616"
+    },
+    {
+      "PDV": "225-REBAJA No. 4 SOACHA SAN MATEO",
+      "Nivel de Servicio": "0.3880480430231574"
+    },
+    {
+      "PDV": "2O7-REBAJA No. 24 BOGOTA SERENA 1",
+      "Nivel de Servicio": "0.3883211972409138"
+    },
+    {
+      "PDV": "1J1-REBAJA No. 1 PUERTO COLOMBIA CENTRO",
+      "Nivel de Servicio": "0.3885258204501977"
+    },
+    {
+      "PDV": "2Y2-REBAJA PLUS No. 2 PUERTO BOYACA HOSPITAL JOSE CAYETANO VASQUEZ",
+      "Nivel de Servicio": "0.3885841523018619"
+    },
+    {
+      "PDV": "125-REBAJA PLUS No. 3 CIENAGA AVENIDA SANTANDER",
+      "Nivel de Servicio": "0.3898396565190649"
+    },
+    {
+      "PDV": "3K5-REBAJA No. 9 RIONEGRO HOSPITAL REGIONAL",
+      "Nivel de Servicio": "0.3916277278898397"
+    },
+    {
+      "PDV": "2A6-REBAJA No. 5 NEIVA TIMANCO",
+      "Nivel de Servicio": "0.3919648832766004"
+    },
+    {
+      "PDV": "4T3-REBAJA No. 11 PASTO PARQUE DE BOLIVAR",
+      "Nivel de Servicio": "0.3920276757682312"
+    },
+    {
+      "PDV": "2S2-REBAJA No. 30 BOGOTA RIONEGRO",
+      "Nivel de Servicio": "0.3931364176576883"
+    },
+    {
+      "PDV": "336-REBAJA No. 2 TUNJA PLAZOLETA SAN IGNACIO",
+      "Nivel de Servicio": "0.3951219137095752"
+    },
+    {
+      "PDV": "984-REBAJA No. 77 BOGOTA PALERMO 2",
+      "Nivel de Servicio": "0.3962148072299093"
+    },
+    {
+      "PDV": "5J8-REBAJA PLUS No. 20 BARRANQUILLA C. C. PLAZUELA DEL PRADO",
+      "Nivel de Servicio": "0.3966467050715438"
+    },
+    {
+      "PDV": "3L2-REBAJA PLUS No. 4 BARRANCABERMEJA PRIMERA DE MAYO",
+      "Nivel de Servicio": "0.3967923628460219"
+    },
+    {
+      "PDV": "126-REBAJA PLUS No. 3 FUNDACION CALZACOSTA",
+      "Nivel de Servicio": "0.3968491895825779"
+    },
+    {
+      "PDV": "2T5-REBAJA PLUS No. 1 MOCOA AVENIDA COLOMBIA",
+      "Nivel de Servicio": "0.3986642231654432"
+    },
+    {
+      "PDV": "5C7-REBAJA PLUS No. 13 BUCARAMANGA ALARCON",
+      "Nivel de Servicio": "0.3996644242423358"
+    },
+    {
+      "PDV": "408-REBAJA No. 8 CALI ALAMEDA",
+      "Nivel de Servicio": "0.4065253627498381"
+    },
+    {
+      "PDV": "2B6-REBAJA PLUS No. 1 PUERTO ASIS CENTRO",
+      "Nivel de Servicio": "0.4073113450592525"
+    },
+    {
+      "PDV": "4S3-REBAJA No. 1 PRADERA PARQUE PRINCIPAL",
+      "Nivel de Servicio": "0.4094514914175836"
+    },
+    {
+      "PDV": "108-REBAJA PLUS No. 1 SANTA MARTA LIBERTADOR",
+      "Nivel de Servicio": "0.4109477863317678"
+    },
+    {
+      "PDV": "3I3-REBAJA No. 6 RIONEGRO HOSPITAL PORVENIR",
+      "Nivel de Servicio": "0.4124036359789611"
+    },
+    {
+      "PDV": "4S2-REBAJA PLUS No. 1 RIOSUCIO CENTRO",
+      "Nivel de Servicio": "0.4130074543206649"
+    },
+    {
+      "PDV": "2T4-REBAJA No. 2 LETICIA",
+      "Nivel de Servicio": "0.4136539508444624"
+    },
+    {
+      "PDV": "486-REBAJA No. 2 PASTO CENTRO",
+      "Nivel de Servicio": "0.4190215419391732"
+    },
+    {
+      "PDV": "451-REBAJA PLUS No. 1 BUGA PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.420297873696418"
+    },
+    {
+      "PDV": "5W4-REBAJA PLUS No. 4 JAMUNDI PLAZA COMERCIAL VERDI",
+      "Nivel de Servicio": "0.4211965964748178"
+    },
+    {
+      "PDV": "3L8-REBAJA No. 21 BUCARAMANGA MUTIS",
+      "Nivel de Servicio": "0.4215480631139018"
+    },
+    {
+      "PDV": "477-REBAJA No. 1 POPAYAN LOS HOYOS",
+      "Nivel de Servicio": "0.4256999049692304"
+    },
+    {
+      "PDV": "2Q1-REBAJA No. 34 BOGOTA SUBA RINCON 2 VILLA ELISA",
+      "Nivel de Servicio": "0.4310975805201246"
+    },
+    {
+      "PDV": "243-REBAJA No. 11 BOGOTA KENNEDY 2",
+      "Nivel de Servicio": "0.4329399921275434"
+    },
+    {
+      "PDV": "5R5-REBAJA PLUS No. 19 BUCARAMANGA SAN FRANCISCO",
+      "Nivel de Servicio": "0.436067620904473"
+    },
+    {
+      "PDV": "5A8-REBAJA No. 4 RIOHACHA COQUIVACOA",
+      "Nivel de Servicio": "0.4364768011200372"
+    },
+    {
+      "PDV": "2W6-REBAJA PLUS No. 3 FLORENCIA PLAZA PIZARRO",
+      "Nivel de Servicio": "0.4384614982423299"
+    },
+    {
+      "PDV": "4P1-REBAJA No. 1 PEREIRA PARQUE DE LA LIBERTAD",
+      "Nivel de Servicio": "0.4416943819566254"
+    },
+    {
+      "PDV": "346-REBAJA PLUS No. 5 BARRANCABERMEJA TORCOROMA",
+      "Nivel de Servicio": "0.4430001791657839"
+    },
+    {
+      "PDV": "311-REBAJA PLUS No. 2 GIRON AVENIDA LOS CANEYES",
+      "Nivel de Servicio": "0.4432043002614566"
+    },
+    {
+      "PDV": "4C2-REBAJA PLUS No. 5 MANIZALES PARQUE CALDAS",
+      "Nivel de Servicio": "0.443830943178201"
+    },
+    {
+      "PDV": "4Q1-REBAJA PLUS No. 3 ARMENIA CENTRO",
+      "Nivel de Servicio": "0.4463451668376192"
+    },
+    {
+      "PDV": "463-REBAJA No. 3 BUENAVENTURA CENTRO",
+      "Nivel de Servicio": "0.448913908400439"
+    },
+    {
+      "PDV": "985-REBAJA No. 7 POPAYAN CENTRO",
+      "Nivel de Servicio": "0.4536038419118221"
+    },
+    {
+      "PDV": "4Q2-REBAJA PLUS No. 4 ARMENIA EL BOSQUE",
+      "Nivel de Servicio": "0.453701582498644"
+    },
+    {
+      "PDV": "938-REBAJA No. 23 MEDELLIN TECNOPARQUE",
+      "Nivel de Servicio": "0.4554194696067596"
+    },
+    {
+      "PDV": "195-REBAJA PLUS No. 1 SAN ANDRES ISLAS AVENIDA 20 DE JULIO",
+      "Nivel de Servicio": "0.4557722637837192"
+    },
+    {
+      "PDV": "449-REBAJA No. 1 SEVILLA CALLE MIRANDA",
+      "Nivel de Servicio": "0.4579897941751488"
+    },
+    {
+      "PDV": "469-REBAJA No. 1 TUMACO CALLE DEL COMERCIO",
+      "Nivel de Servicio": "0.4594586672818084"
+    },
+    {
+      "PDV": "5L1-REBAJA PLUS No. 2 IPIALES C. C. GRAN PLAZA",
+      "Nivel de Servicio": "0.4595463353276061"
+    },
+    {
+      "PDV": "143-REBAJA PLUS No. 2 CIENAGA CENTRAL",
+      "Nivel de Servicio": "0.4601830538392522"
+    },
+    {
+      "PDV": "5W2-REBAJA PLUS No. 8 BARRANCABERMEJA BARRIO 20 DE AGOSTO EL BOSTON",
+      "Nivel de Servicio": "0.46299851132881"
+    },
+    {
+      "PDV": "437-REBAJA No. 37 CALI PARISIEN",
+      "Nivel de Servicio": "0.4637344269891268"
+    },
+    {
+      "PDV": "2V4-REBAJA No. 93 BOGOTA MILENTA 1",
+      "Nivel de Servicio": "0.4793369195903966"
+    },
+    {
+      "PDV": "2Q4-REBAJA No. 5 FLORENCIA EDIFICIO LA PAZ",
+      "Nivel de Servicio": "0.4797915286154802"
+    },
+    {
+      "PDV": "718-REBAJA No. 1 CORINTO",
+      "Nivel de Servicio": "0.4827787301616113"
+    },
+    {
+      "PDV": "470-REBAJA No. 2 TUMACO ALCALDIA",
+      "Nivel de Servicio": "0.4830855563344887"
+    },
+    {
+      "PDV": "5G1-REBAJA PLUS No. 2 SAN ANDRES ISLAS C. C. LA CASA DEL MAR",
+      "Nivel de Servicio": "0.4832748860941492"
+    },
+    {
+      "PDV": "4Q8-REBAJA PLUS No. 1 CALARCA CENTRO",
+      "Nivel de Servicio": "0.488416199382375"
+    },
+    {
+      "PDV": "5N6-REBAJA PLUS No. 3 GIRON CIUDADELA VILLAMIL",
+      "Nivel de Servicio": "0.4884649423481771"
+    },
+    {
+      "PDV": "462-REBAJA PLUS No. 1 BUENAVENTURA CENTRO",
+      "Nivel de Servicio": "0.4898390578565092"
+    },
+    {
+      "PDV": "182-REBAJA PLUS No. 2 FUNDACION PLAZA DE MERCADO",
+      "Nivel de Servicio": "0.493899404325952"
+    },
+    {
+      "PDV": "4R4-REBAJA No. 9 PEREIRA PARQUE INDUSTRIAL",
+      "Nivel de Servicio": "0.498234511766912"
+    },
+    {
+      "PDV": "924-REBAJA No. 1 GUACARI CENTRO",
+      "Nivel de Servicio": "0.5021046677990072"
+    },
+    {
+      "PDV": "137-REBAJA PLUS No. 3 SAN ANDRES ISLAS CALLE PROVEEDORA",
+      "Nivel de Servicio": "0.5563429257479481"
+    }
+  ]
+}
